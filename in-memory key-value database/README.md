@@ -1,0 +1,2 @@
+- [in-memory database](https://en.wikipedia.org/wiki/In-memory_database)
+- [key-value database](https://en.wikipedia.org/wiki/Key-value_database)
