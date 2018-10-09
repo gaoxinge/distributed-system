@@ -11,7 +11,16 @@
 
 ## database
 
-## other
+### relational database
+
+### in-memory key-value database
+
+- [in-memory database](https://en.wikipedia.org/wiki/In-memory_database)
+- [key-value database](https://en.wikipedia.org/wiki/Key-value_database)
+- [dbm](https://en.wikipedia.org/wiki/Dbm)
+- [redis]()
+
+## other reference
 
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
