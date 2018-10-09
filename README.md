@@ -9,6 +9,8 @@
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Notes on Distributed Systems for Young Bloods](https://wenku.baidu.com/view/2ed750eeaf1ffc4fff47ac70.html)
 
+## database
+
 ## other
 
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
