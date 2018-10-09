@@ -18,7 +18,7 @@
 - [in-memory database](https://en.wikipedia.org/wiki/In-memory_database)
 - [key-value database](https://en.wikipedia.org/wiki/Key-value_database)
 - [dbm](https://en.wikipedia.org/wiki/Dbm)
-- [redis]()
+- [redis](https://github.com/gaoxinge/distributed-system/tree/master/redis)
 
 ## other reference
 
