@@ -24,6 +24,7 @@
 ### in-memory key-value database
 
 - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/dbm)
+- [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/pickledb)
 - [redis](https://github.com/gaoxinge/distributed-system/tree/master/redis)
 - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/memcached)
 
