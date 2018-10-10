@@ -13,10 +13,17 @@
 
 ### relational database
 
+### key-value database
+
+- [basic](https://github.com/gaoxinge/distributed-system/tree/master/key-value%20database)
+
+### in-memory database
+
+- [basic](https://github.com/gaoxinge/distributed-system/tree/master/in-memory%20database)
+
 ### in-memory key-value database
 
-- [basic](https://github.com/gaoxinge/distributed-system/tree/master/in-memory%20key-value%20database)
-- [dbm](https://en.wikipedia.org/wiki/Dbm)
+- [dbm](https://github.com/gaoxinge/distributed-system/tree/master/dbm)
 - [redis](https://github.com/gaoxinge/distributed-system/tree/master/redis)
 
 ## reference
