@@ -11,7 +11,7 @@
 
 ## database
 
-### relational database
+### RDBMS
 
 ### key-value database
 
@@ -23,6 +23,7 @@
 
 ### in-memory key-value database
 
+- [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/in-memory%20key-value%20database%20tutorial)
 - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/dbm)
 - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/pickledb)
 - [redis](https://github.com/gaoxinge/distributed-system/tree/master/redis)
