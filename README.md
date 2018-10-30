@@ -10,6 +10,11 @@
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Notes on Distributed Systems for Young Bloods](https://wenku.baidu.com/view/2ed750eeaf1ffc4fff47ac70.html)
 
+## term
+
+- [分布式中关于Consistency和Consensus的区别](https://www.cnblogs.com/simon0227/archive/2012/05/08/2490149.html)
+- [consensus和consistent 有什么区别？](https://www.zhihu.com/question/40588186)
+
 ## database
 
 ### RDBMS
