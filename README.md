@@ -19,22 +19,21 @@
 
 ### RDBMS
 
-### key-value database
+### NoSQL
 
-- [basic](https://github.com/gaoxinge/distributed-system/tree/master/key-value%20database)
-
-### in-memory database
-
-- [basic](https://github.com/gaoxinge/distributed-system/tree/master/in-memory%20database)
-
-### in-memory key-value database
-
-- [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/in-memory%20key-value%20database%20tutorial)
-- [dbm](https://github.com/gaoxinge/distributed-system/tree/master/dbm)
-- [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/pickledb)
-- [redis](https://github.com/gaoxinge/distributed-system/tree/master/redis)
-- [memcached](https://github.com/gaoxinge/distributed-system/tree/master/memcached)
-- [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/simpledb)
+- key-value database
+  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database)
+- in-memory database
+  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20database)
+- in-memory key-value database
+  - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database%20tutorial)
+  - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/dbm)
+  - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/pickledb)
+  - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/redis)
+  - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/memcached)
+  - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/simpledb)
+  
+### NewSQL
 
 ## reference
 
