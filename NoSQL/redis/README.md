@@ -1,0 +1,2 @@
+- [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
+- [Redis 设计与实现](https://redisbook.readthedocs.io/en/latest/#)
