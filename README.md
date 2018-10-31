@@ -17,6 +17,8 @@
 
 ## database
 
+- [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
+
 ### RDBMS
 
 ### NoSQL
