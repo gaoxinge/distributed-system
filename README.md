@@ -28,7 +28,7 @@
 - embedded key-value database
   - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
   - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/pickledb)
-  - lmdb
+  - [lmdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/lmdb)
   - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
   - [hyperleveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/hyperleveldb)
   - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
