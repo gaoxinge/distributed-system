@@ -41,6 +41,10 @@
   - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
   - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
   - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/simpledb)
+- document-oriented database
+  - [basic]()
+  - [mongodb]()
+  - [tinydb]()
 
 ### NewSQL
 
