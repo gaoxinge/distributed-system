@@ -18,21 +18,22 @@
 ### NoSQL
 
 - key-value database
-  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database)
-  - [dynamo](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/dynamo)
-  - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/riak)
-  - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/voldemort)
-  - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/cassandra)
+  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/basic)
+  - [dynamo](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/dynamo)
+  - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/riak)
+  - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
+  - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/cassandra)
 - in-memory database
-  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20database)
+  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20database/basic)
+- embedded key-value database
+  - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
+  - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/pickledb)
 - in-memory key-value database
-  - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database%20tutorial)
-  - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/dbm)
-  - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/pickledb)
-  - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/redis)
-  - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/memcached)
-  - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/simpledb)
-  
+  - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/tutorial)
+  - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
+  - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
+  - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/simpledb)
+
 ### NewSQL
 
 ## term
