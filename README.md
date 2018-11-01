@@ -2,7 +2,6 @@
 
 ## introduction
 
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Starting Points in Distributed Systems, Pt. I: Background](https://augescens.com/2014/01/18/dist-systems-starting-pts-i/)
 - [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing)
 - [A Thorough Introduction to Distributed Systems](https://hackernoon.com/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
