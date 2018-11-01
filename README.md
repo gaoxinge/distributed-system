@@ -8,6 +8,8 @@
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Notes on Distributed Systems for Young Bloods](https://wenku.baidu.com/view/2ed750eeaf1ffc4fff47ac70.html)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 
 ## database
 
