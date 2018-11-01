@@ -28,6 +28,11 @@
 - embedded key-value database
   - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
   - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/pickledb)
+  - lmdb
+  - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
+  - [hyperleveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/hyperleveldb)
+  - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
+  - [boltdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/boltdb)
 - in-memory key-value database
   - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/tutorial)
   - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
