@@ -42,9 +42,9 @@
   - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
   - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/simpledb)
 - document-oriented database
-  - [basic]()
-  - [mongodb]()
-  - [tinydb]()
+  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
+  - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
+  - [tinydb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/tinydb)
 
 ### NewSQL
 
