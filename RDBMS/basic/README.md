@@ -1,2 +1,4 @@
+- [Relational database](https://en.wikipedia.org/wiki/Relational_database)
+- [Relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)
 - [数据库系统概念](https://book.douban.com/subject/10548379/)
 - [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
