@@ -1,2 +1,4 @@
 - [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
+- [Redis入门指南](https://book.douban.com/subject/24522045/)
+- [Redis设计与实现](https://book.douban.com/subject/25900156/)
 - [Redis 设计与实现](https://redisbook.readthedocs.io/en/latest/#)
