@@ -18,6 +18,13 @@
 
 ### RDBMS
 
+- SQL
+- basic
+- tutorial
+- mysql
+- postgres
+- oracle
+
 ### NoSQL
 
 - key-value database
