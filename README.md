@@ -18,9 +18,9 @@
 
 ### RDBMS
 
-- SQL
-- basic
-- tutorial
+- [SQL](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/SQL)
+- [basic](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/basic)
+- [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/tutorial)
 - mysql
 - postgres
 - oracle
