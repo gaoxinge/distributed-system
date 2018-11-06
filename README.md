@@ -11,6 +11,8 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 
+## distributed lock
+
 ## database
 
 - [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
