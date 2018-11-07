@@ -24,7 +24,7 @@
 - [basic](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/basic)
 - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/tutorial)
 - [mysql](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/mysql)
-- postgres
+- [postgres](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/postgres)
 - oracle
 
 ### NoSQL
