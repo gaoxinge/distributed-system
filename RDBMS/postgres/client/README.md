@@ -62,12 +62,11 @@ application         <-> concurrency control
     v
 jdbc datasource api <-> connection pool
     |
-	|
     |
     v
  jdbc api
-	|
-	|
+    |
+    |
 	v
   driver
     |
