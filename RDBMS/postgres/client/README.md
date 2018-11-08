@@ -67,7 +67,7 @@ jdbc datasource api <-> connection pool
  jdbc api
     |
     |
-	v
+    v
   driver
     |
     |
