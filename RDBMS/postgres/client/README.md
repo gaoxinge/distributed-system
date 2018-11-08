@@ -9,7 +9,11 @@ application
     |
     |
     v
-  driver
+  db api
+    |
+    |
+    v
+  driver <-> connection pool
     |
     |
     v
@@ -30,7 +34,7 @@ application
     |
     |
     v
-database/sql
+database/sql <-> connection pool
     |
     |
     v
@@ -52,11 +56,11 @@ application
     |
     |
     v
-jdbc datasource
+jdbc datasource <-> connection pool
     |
     |
     v
-jdbc driver
+jdbc driver     <-> connection pool
     |
     |
     v
