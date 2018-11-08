@@ -1,7 +1,7 @@
 ## python
 
 ```
-application
+application <-> concurrency control
     |
     |
     v
@@ -9,11 +9,11 @@ application
     |
     |
     v
-  db api
+  db api    <-> connection pool
     |
     |
     v
-  driver <-> connection pool
+  driver 
     |
     |
     v
@@ -26,7 +26,7 @@ application
 ## go
 
 ```
-application
+application  <-> concurrency control
     |
     |
     v
@@ -45,10 +45,14 @@ database/sql <-> connection pool
  database
 ```
 
+- [dive into golang database/sql(1)](https://www.jianshu.com/p/3b0b3a4c83da)
+- [dive into golang database/sql(2)](https://www.jianshu.com/p/807257fcb985)
+- [dive into golang database/sql(3)](https://www.jianshu.com/p/cd8cee3d7fc3)
+
 ## java
 
 ```
-application
+application         <-> concurrency control
     |
     |
     v
@@ -56,13 +60,20 @@ application
     |
     |
     v
-jdbc datasource <-> connection pool
+jdbc datasource api <-> connection pool
     |
+	|
     |
     v
-jdbc driver     <-> connection pool
+ jdbc api
+	|
+	|
+	v
+  driver
     |
     |
     v
  database
 ```
+
+- [JDBC数据源(DataSource)的简单实现](http://blog.51cto.com/lavasoft/265073)
