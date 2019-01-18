@@ -13,6 +13,8 @@
 
 ## distributed algorithm
 
+- [Distributed Algorithms](https://www.cs.vu.nl/~tcs/da/daslides.pdf)
+
 ## distributed lock
 
 ## database
