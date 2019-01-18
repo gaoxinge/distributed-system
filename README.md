@@ -14,6 +14,8 @@
 ## distributed algorithm
 
 - [Distributed Algorithms](https://www.cs.vu.nl/~tcs/da/daslides.pdf)
+- [CSE5306: Distributed Systems, Spring 2019](http://ranger.uta.edu/~jrao/CSE5306/spring2019/index.html)
+- [CS 5620 (22C:166) Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 
 ## distributed lock
 
