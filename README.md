@@ -20,6 +20,17 @@
 - [CSE5306: Distributed Systems, Spring 2019](http://ranger.uta.edu/~jrao/CSE5306/spring2019/index.html)
 - [CS 5620 (22C:166) Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 
+## distributed term
+
+### clock
+
+- [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
+
+### consistency / consensus
+
+- [分布式中关于Consistency和Consensus的区别](https://www.cnblogs.com/simon0227/archive/2012/05/08/2490149.html)
+- [consensus和consistent 有什么区别？](https://www.zhihu.com/question/40588186)
+
 ## distributed lock
 
 ## database
@@ -65,11 +76,6 @@
   - [tinydb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/tinydb)
 
 ### NewSQL
-
-## term
-
-- [分布式中关于Consistency和Consensus的区别](https://www.cnblogs.com/simon0227/archive/2012/05/08/2490149.html)
-- [consensus和consistent 有什么区别？](https://www.zhihu.com/question/40588186)
 
 ## reference
 
