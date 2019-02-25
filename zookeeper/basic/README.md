@@ -1,1 +1,2 @@
 - [5分钟让你了解 ZooKeeper 的功能和原理](https://blog.csdn.net/weijifeng_/article/details/79775738)
+- [Zookeeper入门看这篇就够了](https://blog.csdn.net/java_66666/article/details/81015302)
