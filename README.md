@@ -84,7 +84,7 @@
 
 ### zookeeper
 
-- [basic]()
+- [basic](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/basic)
 
 ## reference
 
