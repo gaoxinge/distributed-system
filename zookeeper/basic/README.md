@@ -1,4 +1,6 @@
 - [5分钟让你了解 ZooKeeper 的功能和原理](https://blog.csdn.net/weijifeng_/article/details/79775738)
 - [Zookeeper入门看这篇就够了](https://blog.csdn.net/java_66666/article/details/81015302)
+- [sgroschupf/zkclient](https://github.com/sgroschupf/zkclient)
+- [apache/curator](https://github.com/apache/curator)
 - [zookeeper原生API做java客户端](https://www.cnblogs.com/520playboy/p/6384594.html)
 - [Zookeeper的java客户端API使用方法（五）](https://blog.csdn.net/jiuqiyuliang/article/details/56012027)
