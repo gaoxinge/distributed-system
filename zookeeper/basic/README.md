@@ -3,6 +3,7 @@
 - ZooKeeper学习总结
   - [ZooKeeper学习总结 第一篇：ZooKeeper快速入门](https://www.cnblogs.com/leocook/p/zk_0.html)
   - [ZooKeeper学习总结 第二篇：ZooKeeper深入探讨](https://www.cnblogs.com/leocook/p/zk_1.html)
+- [Zookeeper教程](https://www.w3cschool.cn/zookeeper/)  
 - [sgroschupf/zkclient](https://github.com/sgroschupf/zkclient)
 - [apache/curator](https://github.com/apache/curator)
 - [zookeeper原生API做java客户端](https://www.cnblogs.com/520playboy/p/6384594.html)
