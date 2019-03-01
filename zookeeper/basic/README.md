@@ -1,5 +1,6 @@
 - [5分钟让你了解 ZooKeeper 的功能和原理](https://blog.csdn.net/weijifeng_/article/details/79775738)
 - [Zookeeper入门看这篇就够了](https://blog.csdn.net/java_66666/article/details/81015302)
+- [Zookeeper的功能以及工作原理](https://www.cnblogs.com/felixzh/p/5869212.html)
 - ZooKeeper学习总结
   - [ZooKeeper学习总结 第一篇：ZooKeeper快速入门](https://www.cnblogs.com/leocook/p/zk_0.html)
   - [ZooKeeper学习总结 第二篇：ZooKeeper深入探讨](https://www.cnblogs.com/leocook/p/zk_1.html)
