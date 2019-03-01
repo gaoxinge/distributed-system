@@ -85,6 +85,7 @@
 ### zookeeper
 
 - [basic](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/basic)
+- [dubbo](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/dubbo)
 
 ## reference
 
