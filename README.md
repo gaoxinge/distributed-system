@@ -27,6 +27,10 @@
 
 - [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
 
+### snapshot
+
+- [Distributed Snapshot](https://www.slidestalk.com/s/distributed_systems_and_algorithms05)
+
 ### consistency / consensus
 
 - [分布式中关于Consistency和Consensus的区别](https://www.cnblogs.com/simon0227/archive/2012/05/08/2490149.html)
