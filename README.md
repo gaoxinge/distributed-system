@@ -89,6 +89,7 @@
 ### zookeeper
 
 - [basic](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/basic)
+- [spring](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/spring)
 - [dubbo](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/dubbo)
 - [mrpc](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/mrpc)
 
