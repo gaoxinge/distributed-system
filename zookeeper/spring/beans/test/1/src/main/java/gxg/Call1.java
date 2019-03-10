@@ -10,7 +10,7 @@ public class Call1 {
         ctx.register(Comp.class);
         ctx.register(Comp1.class);
         ctx.refresh();
-//        ctx.start();
+        ctx.start();
         System.out.println(ctx.getBean("Comp"));
         System.out.println(ctx.getBean("testBean"));
     }
