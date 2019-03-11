@@ -1,0 +1,3 @@
+- [dubbo_URL分析](https://blog.csdn.net/qiaojiahe/article/details/48996601)
+- [Dubbo URL 源码解析](https://blog.csdn.net/luozheng4698729/article/details/80180890)
+- [dubbo统一数据模型URL](https://www.jianshu.com/p/4d5a1207467b)
