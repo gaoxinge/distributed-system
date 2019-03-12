@@ -1,3 +1,7 @@
+- [common](https://github.com/apache/incubator-dubbo/tree/master/dubbo-common/src/main/java/org/apache/dubbo/common)
 - [dubbo_URL分析](https://blog.csdn.net/qiaojiahe/article/details/48996601)
 - [Dubbo URL 源码解析](https://blog.csdn.net/luozheng4698729/article/details/80180890)
 - [dubbo统一数据模型URL](https://www.jianshu.com/p/4d5a1207467b)
+- [Dubbo 中的 URL 统一模型](https://www.cnkirito.moe/dubbo-url/)
+- [微服务架构之Dubbo服务引用](http://luckylau.tech/2018/02/22/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B9%8BDubbo-12/)
+- [Dubbo中订阅和通知解析](http://cxis.me/2017/04/02/Dubbo%E4%B8%AD%E8%AE%A2%E9%98%85%E5%92%8C%E9%80%9A%E7%9F%A5%E8%A7%A3%E6%9E%90/)
