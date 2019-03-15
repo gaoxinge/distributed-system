@@ -9,5 +9,4 @@
 - [Dubbo实践（十五）消费者引用服务](https://www.cnblogs.com/warehouse/p/9348910.html)
 - [dubbo URL](https://m635674608.iteye.com/blog/2308410)
 - [dubbo 各种URL作用分析](http://ju.outofmemory.cn/entry/349249)
-- [深入解析中间件之-Dubbo](http://zqhxuyuan.github.io/2017/10/18/Midd-Dubbo/)
 - [聊聊Dubbo（九）：核心源码-服务端启动流程2](https://juejin.im/post/5bcee9696fb9a05cda77a3da)

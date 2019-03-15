@@ -1,0 +1,3 @@
+- [Dubbo Multicast 注册中心即相关代码实现](https://www.cnblogs.com/ghj1976/p/5328376.html)
+- [Using Zookeeper in Dubbo](http://dubbo.apache.org/en-us/blog/dubbo-zk.html)
+- [深入解析中间件之-Dubbo](http://zqhxuyuan.github.io/2017/10/18/Midd-Dubbo/)
