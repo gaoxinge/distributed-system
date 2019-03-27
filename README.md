@@ -91,6 +91,7 @@
 - [basic](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/basic)
 - [spring](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/spring)
 - [dubbo](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/dubbo)
+- [sofa](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/sofa)
 - [spring-cloud](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/spring-cloud)
 - [mrpc](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/mrpc)
 - [rpcx](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/rpcx)
