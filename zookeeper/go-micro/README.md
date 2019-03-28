@@ -1,1 +1,1 @@
-- [go-micro](https://github.com/micro/go-micro)
+- [micro/go-micro](https://github.com/micro/go-micro)
