@@ -1,0 +1,1 @@
+- [Dubbo中使用高效的Java序列化（Kryo和FST）](https://blog.csdn.net/moonpure/article/details/53175519)
