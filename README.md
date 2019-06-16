@@ -78,7 +78,7 @@
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
   - [couchdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/couchdb)
-  - [orientdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/oreintdb)
+  - [orientdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/orientdb)
   - [tinydb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/tinydb)
 - column-family database
   - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
