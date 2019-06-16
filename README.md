@@ -59,7 +59,6 @@
   - [dynamo](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/dynamo)
   - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/riak)
   - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
-  - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/cassandra)
 - in-memory database
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20database/basic)
 - embedded key-value database
@@ -79,6 +78,8 @@
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
   - [tinydb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/tinydb)
+- column-family database
+  - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
 
 ### NewSQL
 
