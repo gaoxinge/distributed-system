@@ -56,7 +56,6 @@
 
 - key-value database
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/basic)
-  - [dynamo](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/dynamo)
   - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/riak)
   - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
 - in-memory database
