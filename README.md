@@ -36,6 +36,10 @@
 - [分布式中关于Consistency和Consensus的区别](https://www.cnblogs.com/simon0227/archive/2012/05/08/2490149.html)
 - [consensus和consistent有什么区别？](https://www.zhihu.com/question/40588186)
 
+### consistency
+
+- [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+
 ## distributed lock
 
 ## database
@@ -107,3 +111,4 @@
 ## blogs
 
 - [the morning paper](https://blog.acolyer.org/)
+- [The Paper Trail](https://www.the-paper-trail.org/)
