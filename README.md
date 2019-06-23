@@ -102,6 +102,7 @@
 - [mrpc](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/mrpc)
 - [rpcx](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/rpcx)
 - [go-micro](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/go-micro)
+- [go-kit](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/go-kit)
 - [service mesh](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/service%20mesh)
 
 ## reference
