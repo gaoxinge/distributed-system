@@ -25,7 +25,13 @@
 
 ### clock
 
-- [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
+- global clock
+  - physical clock
+  - logical clock
+    - lamport clock
+      - [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
+    - vector clock
+    - matrix clock
 
 ### snapshot
 
