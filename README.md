@@ -13,6 +13,7 @@
 
 ## distributed algorithm
 
+- [Multiprocessor Programming](http://www.cs.tau.ac.il/~shanir/multiprocessor-synch-2003/)
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
