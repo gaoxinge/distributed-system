@@ -46,7 +46,7 @@
 
 - [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 
-## distributed lock
+### distributed lock
 
 ## database
 
