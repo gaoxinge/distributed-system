@@ -19,6 +19,7 @@
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
 - [Distributed Algorithms](https://www.cs.vu.nl/~tcs/da/daslides.pdf)
 - [CSE5306: Distributed Systems, Spring 2019](http://ranger.uta.edu/~jrao/CSE5306/spring2019/index.html)
+- [Distributed Systems W4995-1 Fall 2013](https://www.cs.columbia.edu/~du/ds/)
 - [CS 5620 (22C:166) Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 
@@ -33,6 +34,7 @@
       - [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
     - vector clock
     - matrix clock
+      - [Matrix Clock Synchronization in the Distributed Computing Environment](http://ijcsit.com/docs/Volume%206/vol6issue04/ijcsit2015060455.pdf)
 
 ### snapshot
 
