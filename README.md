@@ -13,6 +13,7 @@
 
 ## distributed algorithm
 
+- [Concurrent Data Structures](http://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
 - [Multiprocessor Programming](http://www.cs.tau.ac.il/~shanir/multiprocessor-synch-2003/)
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
