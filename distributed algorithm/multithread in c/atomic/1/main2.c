@@ -1,12 +1,18 @@
 #include <stdio.h>
 #include <pthread.h>
+#include <stdbool.h>
 #define N 1000
 #define M 5
 
 void *f(void *args) {
     int *value = args;
-    for (int i = 0; i < N; i++)
-        __sync_add_and_fetch(value, 1);
+    bool success;
+    for (int i = 0; i < N; i++) {
+        do {
+            int r = *value;
+            success = __sync_bool_compare_and_swap(value, r, r + 1);
+        } while (!success);
+    }
 }
 
 int main() {

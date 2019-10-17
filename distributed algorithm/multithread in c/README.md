@@ -4,5 +4,5 @@
 - barrier
 - [atomic](./atomic)
 - [mutex](./mutex)
-- spin lock
+  - spin lock
 - lock free / wait free
