@@ -1,4 +1,4 @@
-# atomic memory access
+# atomic
 
 ## reference
 
