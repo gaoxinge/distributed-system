@@ -14,6 +14,7 @@
 ## distributed algorithm
 
 - [multiprocessor programming](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/multiprocessor%20programming)
+- [multithread in c](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/multithread%20in%20c)
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
