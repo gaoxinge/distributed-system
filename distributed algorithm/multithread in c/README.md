@@ -2,8 +2,7 @@
 
 - [pthread](./pthread)
 - barrier
-- atomic memory access
-- atomic operation
+- [atomic](./atomic)
 - [mutex](./mutex)
 - spin lock
 - lock free / wait free
