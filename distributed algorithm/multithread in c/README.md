@@ -4,6 +4,6 @@
 - barrier
 - atomic memory access
 - atomic operation
-- lock
-  - spin lock
+- [mutex](./mutex)
+- spin lock
 - lock free / wait free
