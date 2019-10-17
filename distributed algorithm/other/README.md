@@ -25,6 +25,10 @@
 
 - [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 
+### linearizability
+
+- [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
+
 ### sequential consistency
 
 - [Sequential consistency](https://en.wikipedia.org/wiki/Sequential_consistency)
