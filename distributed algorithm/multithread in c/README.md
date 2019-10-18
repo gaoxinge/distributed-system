@@ -5,4 +5,6 @@
 - [atomic](./atomic)
 - [mutex](./mutex)
   - spin lock
-- lock free / wait free
+- no blocking algorithm
+  - lock free
+    - wait free
