@@ -73,11 +73,7 @@
   
 ## service
 
-### consul
-
 ### zookeeper
-
-- [basic](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/basic)
 - [spring](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/spring)
 - [dubbo](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/dubbo)
 - [sofa](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/sofa)
