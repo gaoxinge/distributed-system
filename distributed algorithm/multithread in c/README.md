@@ -1,7 +1,7 @@
 # multithread in c
 
 - [pthread](./pthread)
-- barrier
+- [barrier](./barrier)
 - [atomic](./atomic)
 - [mutex](./mutex)
   - spin lock
