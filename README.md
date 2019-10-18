@@ -70,17 +70,6 @@
 - column-family database
   - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
   - [hbase](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/hbase)
-  
-## service
-
-### zookeeper
-
-- [sofa](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/sofa)
-- [mrpc](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/mrpc)
-- [rpcx](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/rpcx)
-- [go-micro](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/go-micro)
-- [go-kit](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/go-kit)
-- [service mesh](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/service%20mesh)
 
 ## reference
 
