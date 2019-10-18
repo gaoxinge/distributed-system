@@ -75,7 +75,6 @@
 
 ### zookeeper
 
-- [dubbo](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/dubbo)
 - [sofa](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/sofa)
 - [mrpc](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/mrpc)
 - [rpcx](https://github.com/gaoxinge/distributed-system/tree/master/zookeeper/rpcx)

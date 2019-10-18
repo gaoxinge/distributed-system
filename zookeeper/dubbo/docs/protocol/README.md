@@ -1,2 +1,0 @@
-- [Dubbo中使用高效的Java序列化（Kryo和FST）](https://blog.csdn.net/moonpure/article/details/53175519)
-- [Dubbo协议详解](http://dubbo.apache.org/zh-cn/blog/dubbo-protocol.html)
