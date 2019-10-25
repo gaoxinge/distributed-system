@@ -38,3 +38,7 @@
 - [Memory Consistency vs Cache Coherence](https://cs.stackexchange.com/questions/20044/memory-consistency-vs-cache-coherence)
 
 ## distributed lock
+
+- [Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+- [Shared register](https://en.wikipedia.org/wiki/Shared_register)
+- [Shared snapshot objects](https://en.wikipedia.org/wiki/Shared_snapshot_objects)
