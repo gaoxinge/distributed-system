@@ -11,6 +11,14 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 
+## reference
+
+- [arxiv](https://arxiv.org/)
+- [the morning paper](https://blog.acolyer.org/)
+- [The Paper Trail](https://www.the-paper-trail.org/)
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
+
 ## distributed algorithm
 
 - [multiprocessor programming](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/multiprocessor%20programming)
@@ -67,13 +75,3 @@
 - column-family database
   - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
   - [hbase](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/hbase)
-
-## reference
-
-- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
-
-## blogs
-
-- [the morning paper](https://blog.acolyer.org/)
-- [The Paper Trail](https://www.the-paper-trail.org/)
