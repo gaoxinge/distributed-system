@@ -19,10 +19,8 @@
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
-## distributed algorithm
+## algorithm
 
-- [multiprocessor programming](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/multiprocessor%20programming)
-- [multithread in c](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/multithread%20in%20c)
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
@@ -30,11 +28,20 @@
 - [W4995-1: Distributed Systems](https://www.cs.columbia.edu/~du/ds/)
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
-- [other](https://github.com/gaoxinge/distributed-system/tree/master/distributed%20algorithm/other)
+
+## summary
+
+- [other](./distributed%20algorithm/other)
+
+## os
+
+- [multiprocessor programming](https://github.com/gaoxinge/distributed-system/tree/master/os/multiprocessor%20programming)
+- [multithread in c](https://github.com/gaoxinge/distributed-system/tree/master/os/multithread%20in%20c)
 
 ## database
 
 - [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
+- [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 
 ### RDBMS
