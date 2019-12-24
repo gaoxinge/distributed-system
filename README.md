@@ -31,7 +31,7 @@
 
 ## summary
 
-- [other](./distributed%20algorithm/other)
+- [other](./summary)
 
 ## os
 
