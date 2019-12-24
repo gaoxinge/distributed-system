@@ -35,8 +35,8 @@
 
 ## os
 
-- [multiprocessor programming](https://github.com/gaoxinge/distributed-system/tree/master/os/multiprocessor%20programming)
-- [multithread in c](https://github.com/gaoxinge/distributed-system/tree/master/os/multithread%20in%20c)
+- [multiprocessor programming](./os/multiprocessor%20programming)
+- [multithread in c](./os/multithread%20in%20c)
 
 ## database
 
