@@ -53,6 +53,8 @@
 
 ### cache database
 
+- [basic](./database/cache%20database/basic)
+
 ### NoSQL
 
 - key-value database
@@ -60,8 +62,6 @@
   - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/riak)
   - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
   - dynamo
-- in-memory database
-  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20database/basic)
 - embedded key-value database
   - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
   - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/pickledb)
@@ -71,7 +71,6 @@
   - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
   - [boltdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/boltdb)
 - in-memory key-value database
-  - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/tutorial)
   - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
   - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
 - document-oriented database

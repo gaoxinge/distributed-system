@@ -1,2 +1,0 @@
-- [in-memory database](https://en.wikipedia.org/wiki/In-memory_database)
-- [What an in-memory database is and how it persists data efficiently](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
