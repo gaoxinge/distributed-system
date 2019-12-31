@@ -1,5 +1,0 @@
-- [高性能MySQL](https://book.douban.com/subject/4241826/)
-- [高可用MySQL](https://book.douban.com/subject/6847455/)
-- [MySQL技术内幕](https://book.douban.com/subject/26436525/)
-- [MySQL技术内幕:InnoDB存储引擎](https://book.douban.com/subject/5373022/)
-- [MySQL技术内幕:SQL编程](https://book.douban.com/subject/10569620/)

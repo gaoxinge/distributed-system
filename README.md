@@ -44,12 +44,14 @@
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 
-### RDBMS
+### relational database
 
-- [basic](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/basic)
-- [mysql](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/mysql)
-- [postgres](https://github.com/gaoxinge/distributed-system/tree/master/RDBMS/postgres)
+- [basic](./database/relational%20database/basic)
+- [mysql](./database/relational%20database//mysql)
+- [postgres](./database/relational%20database//postgres)
 - oracle
+
+### cache database
 
 ### NoSQL
 
