@@ -54,6 +54,8 @@
 ### cache database
 
 - [basic](./database/cache%20database/basic)
+- [redis](./database/cache%20database/redis)
+- [memcached](./database/cache%20database/memcached)
 
 ### NoSQL
 
@@ -70,9 +72,6 @@
   - [hyperleveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/hyperleveldb)
   - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
   - [boltdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/boltdb)
-- in-memory key-value database
-  - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
-  - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
 - document-oriented database
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
