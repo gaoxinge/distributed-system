@@ -1,7 +1,19 @@
+## source code
+
+- [antirez/redis](https://github.com/antirez/redis)
+
+## tutorial
+
 - [Redis教程](http://www.runoob.com/redis/redis-tutorial.html)
 - [Redis入门指南](https://book.douban.com/subject/24522045/)
 - [Redis设计与实现](https://book.douban.com/subject/25900156/)
-- [Redis设计与实现](https://redisbook.readthedocs.io/en/latest/#)
-- [readme](https://github.com/antirez/redis/blob/unstable/README.md)
+- [Redis设计与实现](https://redisbook.readthedocs.io/en/latest/)
+
+## client
+
 - [Redis的协议规范](http://www.redis.cn/topics/protocol.html)
 - [客户端](http://www.redis.cn/clients.html)
+
+## plugin
+
+- [用Go给Redis写组件](https://zhuanlan.zhihu.com/p/37488911)
