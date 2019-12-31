@@ -74,7 +74,6 @@
   - [tutorial](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/tutorial)
   - [redis](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/redis)
   - [memcached](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/memcached)
-  - [simpledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/in-memory%20key-value%20database/simpledb)
 - document-oriented database
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
