@@ -11,14 +11,6 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 
-## reference
-
-- [arxiv](https://arxiv.org/)
-- [the morning paper](https://blog.acolyer.org/)
-- [The Paper Trail](https://www.the-paper-trail.org/)
-- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
-
 ## algorithm
 
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
@@ -31,12 +23,15 @@
 
 ## summary
 
-- [other](./summary)
+- [share memory and consistency](./summary/share%20memory%20and%20consistency)
 
-## os
+## reference
 
-- [multiprocessor programming](./os/multiprocessor%20programming)
-- [multithread in c](./os/multithread%20in%20c)
+- [arxiv](https://arxiv.org/)
+- [the morning paper](https://blog.acolyer.org/)
+- [The Paper Trail](https://www.the-paper-trail.org/)
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
 ## database
 
