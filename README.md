@@ -10,6 +10,7 @@
 - [Notes on Distributed Systems for Young Bloods](https://wenku.baidu.com/view/2ed750eeaf1ffc4fff47ac70.html)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
+- [分布式系统前沿技术](https://www.infoq.cn/theme/48)
 
 ## algorithm
 
