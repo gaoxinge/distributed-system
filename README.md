@@ -24,6 +24,7 @@
 
 ## summary
 
+- [linearizability](./summary/linearizability)
 - [share memory and consistency](./summary/share%20memory%20and%20consistency)
 
 ## reference
