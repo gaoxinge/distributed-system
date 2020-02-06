@@ -1,5 +1,6 @@
 ## architecture
 
+- atomic
 - mutex
   - spin lock
 - no blocking algorithm
@@ -8,6 +9,7 @@
 
 ## wiki
 
+- [Lamport's bakery algorithm](https://en.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 - [Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
 - [Shared register](https://en.wikipedia.org/wiki/Shared_register)
 - [Shared snapshot objects](https://en.wikipedia.org/wiki/Shared_snapshot_objects)

@@ -24,15 +24,18 @@
 
 ## summary
 
+### consistency
+
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
-- [share memory and consistency](./summary/share%20memory%20and%20consistency)
+- [consistency and share memory](./summary/consistency%20and%20share%20memory)
 
 ## reference
 
 - [arxiv](https://arxiv.org/)
 - [the morning paper](https://blog.acolyer.org/)
 - [The Paper Trail](https://www.the-paper-trail.org/)
+- [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
