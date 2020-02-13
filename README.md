@@ -24,8 +24,13 @@
 
 ## summary
 
+### clock
+
+- [clock](./summary/clock)
+
 ### consistency
 
+- [consistency](./summary/consistency)
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
 - [consistency and share memory](./summary/consistency%20and%20share%20memory)
