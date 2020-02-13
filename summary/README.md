@@ -1,15 +1,3 @@
-## clock
-
-### global clock
-  
-- physical clock
-- logical clock
-  - lamport clock
-    - [Lamport Clocks And Vector Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
-  - vector clock
-  - matrix clock
-    - [Matrix Clock Synchronization in the Distributed Computing Environment](http://ijcsit.com/docs/Volume%206/vol6issue04/ijcsit2015060455.pdf)
-
 ## snapshot
 
 - [Distributed Snapshot](https://www.slidestalk.com/s/distributed_systems_and_algorithms05)

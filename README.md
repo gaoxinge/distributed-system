@@ -27,6 +27,8 @@
 ### clock
 
 - [clock](./summary/clock)
+- [lamport clock](./summary/lamport%20clock)
+- [matrix clock](./summary/matrix%20clock)
 
 ### consistency
 
