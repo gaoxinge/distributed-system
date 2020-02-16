@@ -15,6 +15,12 @@
 - [Shared snapshot objects](https://en.wikipedia.org/wiki/Shared_snapshot_objects)
 - [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)#In_shared-memory_systems)
 
+## article
+
+- [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
+- [Lecture 15: Consistency Models](https://www.cs.utah.edu/~rajeev/cs7820/pres/08-7820-15.pdf)
+- [Memory Consistency vs Cache Coherence](https://cs.stackexchange.com/questions/20044/memory-consistency-vs-cache-coherence)
+
 ## tutorial
 
 - [Concurrent Data Structures](http://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
