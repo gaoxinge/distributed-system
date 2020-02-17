@@ -5,7 +5,7 @@
 
 ## paper
 
-- [How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Program](https://courses.cs.washington.edu/courses/cse548/10wi/Lamport.pdf)
+- [How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs](https://courses.cs.washington.edu/courses/cse548/10wi/Lamport.pdf)
 - [How to Make a Correct Multiprocess Program Execute Correctly on a Multiprocessor](https://csserver.evansville.edu/~mr56/ece757/lamport.pdf)
 
 ## article
