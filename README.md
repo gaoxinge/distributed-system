@@ -47,7 +47,7 @@
 ### conflict
 
 - [conflict](./summary/conflict)
-- [git](./sumamry/git)
+- [git](./summary/git)
 - [mrdt](./summary/mrdt)
 
 ## reference
