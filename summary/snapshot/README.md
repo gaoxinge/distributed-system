@@ -10,3 +10,4 @@
 
 - [Distributed Snapshot](https://www.slidestalk.com/s/distributed_systems_and_algorithms05)
 - [读后感：Distributed Snapshots](https://zhuanlan.zhihu.com/p/42442713)
+- [FAULT TOLERANCE AND RECOVERY OF FLINK JOBS](https://2015.flink-forward.org/index.html%3Fp=456.html)
