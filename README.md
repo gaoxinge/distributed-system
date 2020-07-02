@@ -29,6 +29,7 @@
 - [clock](./summary/clock)
 - [lamport clock](./summary/lamport%20clock)
 - [matrix clock](./summary/matrix%20clock)
+- [interval tree clock](./summary/interval%20tree%20clock)
 
 ### snapshot
 
