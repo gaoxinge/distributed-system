@@ -48,6 +48,7 @@
 ### conflict
 
 - [conflict](./summary/conflict)
+- [mpds](./summary/mpds)
 - [git](./summary/git)
 - [ot](./summary/ot)
 - [mrdt](./summary/mrdt)
