@@ -63,6 +63,26 @@
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
+## storage
+
+- 块存储
+- 对象存储
+- 文件存储
+- 数据库
+- 搜索引擎
+- 日志
+
+### 文件存储
+
+- 本地文件存储（DAS）
+- 网络文件存储（FAS）
+  - 存储区域网络（SAN）
+  - 网络接入存储（SAN）
+
+### 关系
+
+- 数据库 ---> 文件存储 ---> 对象存储 ---> 块存储
+
 ## database
 
 - [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
