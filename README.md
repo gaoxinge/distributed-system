@@ -41,10 +41,6 @@
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
 
-### share memory
-
-- [share memory](./summary/share%20memory)
-
 ### conflict
 
 - [conflict](./summary/conflict)
@@ -54,6 +50,10 @@
 - [mrdt](./summary/mrdt)
 - [crdt](./summary/crdt)
 
+### shared memory
+
+- [shared memory](./summary/shared%20memory)
+
 ## reference
 
 - [arxiv](https://arxiv.org/)
@@ -62,6 +62,22 @@
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
+
+## architecture
+
+- basic
+  - thread vs process
+  - shared memory vs message passing
+  - sync vs async
+  - tcp vs http
+- shared
+  - shared nothing
+  - shared disk
+  - shared memory
+  - shared everything
+- state
+  - stateless
+  - stateful
 
 ## storage
 
