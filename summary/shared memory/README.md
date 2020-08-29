@@ -3,6 +3,8 @@
 - atomic
 - mutex
   - spin lock
+- optimistic lock
+- pessimistic lock
 - no blocking algorithm
   - lock free
     - wait free
