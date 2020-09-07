@@ -110,6 +110,7 @@
 ### embedding database
 
 - [basic](./database/embedding%20database/basic)
+- [boltdb](./database/embedding%20database/boltdb)
 
 ### cache database
 
@@ -134,7 +135,6 @@
 - embedded key-value database
   - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
   - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
-  - [boltdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/boltdb)
 - document-oriented database
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
