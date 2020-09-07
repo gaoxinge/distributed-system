@@ -1,1 +1,0 @@
-- [Lightning Memory-Mapped Database](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database)
