@@ -36,10 +36,9 @@
 ## architecture
 
 - basic
-  - thread vs process
   - shared memory vs message passing
+  - sequential data type vs replicated data type
   - sync vs async
-  - tcp vs http
 - shared
   - shared nothing
   - shared disk
