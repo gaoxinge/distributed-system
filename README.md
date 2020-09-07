@@ -22,38 +22,6 @@
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 
-## summary
-
-### clock
-
-- [clock](./summary/clock)
-- [lamport clock](./summary/lamport%20clock)
-- [matrix clock](./summary/matrix%20clock)
-- [interval tree clock](./summary/interval%20tree%20clock)
-
-### snapshot
-
-- [snapshot](./summary/snapshot)
-
-### consistency
-
-- [consistency](./summary/consistency)
-- [linearizability](./summary/linearizability)
-- [sequential consistency](./summary/sequential%20consistency)
-
-### conflict
-
-- [conflict](./summary/conflict)
-- [mpds](./summary/mpds)
-- [git](./summary/git)
-- [ot](./summary/ot)
-- [mrdt](./summary/mrdt)
-- [crdt](./summary/crdt)
-
-### shared memory
-
-- [shared memory](./summary/shared%20memory)
-
 ## reference
 
 - [arxiv](https://arxiv.org/)
@@ -101,6 +69,38 @@
 ### 关系
 
 - 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
+
+## summary
+
+### clock
+
+- [clock](./summary/clock)
+- [lamport clock](./summary/lamport%20clock)
+- [matrix clock](./summary/matrix%20clock)
+- [interval tree clock](./summary/interval%20tree%20clock)
+
+### snapshot
+
+- [snapshot](./summary/snapshot)
+
+### consistency
+
+- [consistency](./summary/consistency)
+- [linearizability](./summary/linearizability)
+- [sequential consistency](./summary/sequential%20consistency)
+
+### conflict
+
+- [conflict](./summary/conflict)
+- [mpds](./summary/mpds)
+- [git](./summary/git)
+- [ot](./summary/ot)
+- [mrdt](./summary/mrdt)
+- [crdt](./summary/crdt)
+
+### shared memory
+
+- [shared memory](./summary/shared%20memory)
 
 ## database
 
