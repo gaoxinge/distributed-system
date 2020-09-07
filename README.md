@@ -129,7 +129,6 @@
   - dynamo
 - embedded key-value database
   - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
-  - [pickledb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/pickledb)
   - [lmdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/lmdb)
   - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
   - [hyperleveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/hyperleveldb)
@@ -139,8 +138,6 @@
   - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
   - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
   - [couchdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/couchdb)
-  - [orientdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/orientdb)
-  - [tinydb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/tinydb)
 - column-family database
   - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
   - [hbase](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/hbase)
