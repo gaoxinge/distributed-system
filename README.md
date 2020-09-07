@@ -107,18 +107,22 @@
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 
-### relational database
+### embedding database
 
-- [basic](./database/relational%20database/basic)
-- [mysql](./database/relational%20database//mysql)
-- [postgres](./database/relational%20database//postgres)
-- oracle
+- [basic](./database/embedding%20database/basic)
 
 ### cache database
 
 - [basic](./database/cache%20database/basic)
 - [redis](./database/cache%20database/redis)
 - [memcached](./database/cache%20database/memcached)
+
+### relational database
+
+- [basic](./database/relational%20database/basic)
+- [mysql](./database/relational%20database//mysql)
+- [postgres](./database/relational%20database//postgres)
+- oracle
 
 ### NoSQL
 
@@ -128,8 +132,6 @@
   - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
   - dynamo
 - embedded key-value database
-  - [dbm](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/dbm)
-  - [lmdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/lmdb)
   - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
   - [hyperleveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/hyperleveldb)
   - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
