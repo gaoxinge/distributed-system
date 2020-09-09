@@ -106,6 +106,7 @@
 - [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
+- [The Snowflake Elastic Data Warehouse](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
 
 ### embedding database
 
