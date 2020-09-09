@@ -119,27 +119,31 @@
 - [redis](./database/cache%20database/redis)
 - [memcached](./database/cache%20database/memcached)
 
+### kv database
+
+- [basic](./database/kv%20database/basic)
+- [leveldb](./database/kv%20database/leveldb)
+- [rocksdb](./database/kv%20database/rocksdb)
+- dynamo
+- [voldemort](./database/kv%20database/voldemort)
+- [riak](./database/kv%20database/riak)
+- [gobeansdb](./database/kv%20database/gobeansdb)
+
 ### relational database
 
 - [basic](./database/relational%20database/basic)
+- oracle
 - [mysql](./database/relational%20database//mysql)
 - [postgres](./database/relational%20database//postgres)
-- oracle
 
-### NoSQL
+### document database
 
-- key-value database
-  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/basic)
-  - [riak](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/riak)
-  - [voldemort](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/key-value%20database/voldemort)
-  - dynamo
-- embedded key-value database
-  - [leveldb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/leveldb)
-  - [rocksdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/embedded%20key-value%20database/rocksdb)
-- document-oriented database
-  - [basic](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/basic)
-  - [mongodb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/mongodb)
-  - [couchdb](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/document-oriented%20database/couchdb)
-- column-family database
-  - [cassandra](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/cassandra)
-  - [hbase](https://github.com/gaoxinge/distributed-system/tree/master/NoSQL/column-family%20database/hbase)
+- [basic](./database/document%20database/basic)
+- [mongodb](./database/document%20database/mongodb)
+- [couchdb](./database/document%20database/couchdb)
+- couchbase/membase
+
+### column database
+
+- [hbase](./database/column%20database/hbase)
+- [cassandra](./database/column%20database/cassandra)
