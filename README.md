@@ -123,10 +123,13 @@
 - [basic](./database/kv%20database/basic)
 - [leveldb](./database/kv%20database/leveldb)
 - [rocksdb](./database/kv%20database/rocksdb)
+
+### kv database cluster
+
 - dynamo
-- [voldemort](./database/kv%20database/voldemort)
-- [riak](./database/kv%20database/riak)
-- [gobeansdb](./database/kv%20database/gobeansdb)
+- [voldemort](./database/kv%20database%20cluster/voldemort)
+- [riak](./database/kv%20database%20cluster/riak)
+- [gobeansdb](./database/kv%20database%20cluster/gobeansdb)
 
 ### relational database
 
@@ -134,6 +137,8 @@
 - oracle
 - [mysql](./database/relational%20database//mysql)
 - [postgres](./database/relational%20database//postgres)
+
+### relational database cluster
 
 ### document database
 
@@ -146,5 +151,10 @@
 
 - [hbase](./database/column%20database/hbase)
 - [cassandra](./database/column%20database/cassandra)
-- [snowflake](./database/column%20database/snowflake)
-- [clickhouse](./database/column%20database/clickhouse)
+
+### sql no hadoop
+
+### data warehouse
+
+- [snowflake](./database/data%20warehouse/snowflake)
+- [clickhouse](./database/data%20warehouse/clickhouse)
