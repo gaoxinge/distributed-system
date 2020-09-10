@@ -156,6 +156,9 @@
 
 ### sql no hadoop
 
+- [pig](./database/sql%20no%20hadoop/pig)
+- [hive](./database/sql%20no%20hadoop/hive)
+
 ### data warehouse
 
 - [snowflake](./database/data%20warehouse/snowflake)
