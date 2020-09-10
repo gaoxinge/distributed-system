@@ -136,9 +136,11 @@
 - [basic](./database/relational%20database/basic)
 - oracle
 - [mysql](./database/relational%20database//mysql)
-- [postgres](./database/relational%20database//postgres)
+- [postgres](./database/relational%20database/postgres)
 
 ### relational database cluster
+
+- [cockroachdb](./database/relational%20database%20cluster/cockroachdb)
 
 ### document database
 
