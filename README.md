@@ -162,3 +162,4 @@
 
 - [snowflake](./database/data%20warehouse/snowflake)
 - [clickhouse](./database/data%20warehouse/clickhouse)
+- [greenplum](./database/data%20warehouse/greenplum)
