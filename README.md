@@ -104,7 +104,6 @@
 ## database
 
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
-- [申砾：细说分布式数据库的过去、现在与未来](https://zhuanlan.zhihu.com/p/26676711)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 
 ### embedding database
