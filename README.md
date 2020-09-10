@@ -156,8 +156,8 @@
 
 ### sql no hadoop
 
-- [pig](./database/sql%20no%20hadoop/pig)
-- [hive](./database/sql%20no%20hadoop/hive)
+- [pig](./database/sql%20on%20hadoop/pig)
+- [hive](./database/sql%20on%20hadoop/hive)
 
 ### data warehouse
 
