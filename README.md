@@ -22,53 +22,6 @@
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 
-## reference
-
-- [arxiv](https://arxiv.org/)
-- [系统](https://zhuanlan.zhihu.com/p/30264473)
-- [数据库](https://www.jianshu.com/p/65570efd0ca3)
-- [the morning paper](https://blog.acolyer.org/)
-- [The Paper Trail](https://www.the-paper-trail.org/)
-- [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
-- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
-
-## architecture
-
-- basic
-  - shared memory vs message passing
-  - sequential data type vs replicated data type
-  - sync vs async
-- shared
-  - shared nothing
-  - shared disk
-  - shared memory
-  - shared everything
-- state
-  - stateless
-  - stateful
-
-## storage
-
-- 块存储
-- KV存储
-- 对象存储
-- 文件存储
-- 数据库
-- 搜索引擎
-- 日志
-
-### 文件存储
-
-- 本地文件存储（DAS）
-- 网络文件存储（FAS）
-  - 存储区域网络（SAN）
-  - 网络接入存储（SAN）
-
-### 关系
-
-- 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
-
 ## summary
 
 ### clock
@@ -100,6 +53,72 @@
 ### shared memory
 
 - [shared memory](./summary/shared%20memory)
+
+## reference
+
+- [arxiv](https://arxiv.org/)
+- [系统](https://zhuanlan.zhihu.com/p/30264473)
+- [数据库](https://www.jianshu.com/p/65570efd0ca3)
+- [the morning paper](https://blog.acolyer.org/)
+- [The Paper Trail](https://www.the-paper-trail.org/)
+- [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
+
+## architecture
+
+- shared
+  - shared nothing
+  - shared disk
+  - shared memory
+  - shared everything
+- message
+  - 1
+    - udp/tcp
+    - queue/channel
+    - message broker
+  - 2
+    - block/no block
+    - sync/async
+- log
+  - application log
+  - database
+    - log structured kv database
+    - wal log
+    - replication log
+  - log-based message broker
+  - consensus/atomic broadcast/consistency
+  - cdc/etl
+- state
+  - stateless
+  - stateful
+- stream
+  - immutable
+  - mutable
+
+## 存储
+
+- 块存储
+- KV存储
+- 对象存储
+- 文件存储
+- 数据库
+
+### 文件存储
+
+- 本地文件存储（DAS）
+- 网络文件存储（FAS）
+  - 存储区域网络（SAN）
+  - 网络接入存储（SAN）
+
+### 关系
+
+- 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
+
+### 存算分离
+
+- 存储的一致性
+- 计算的一致性
 
 ## database
 
