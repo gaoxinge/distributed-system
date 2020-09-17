@@ -226,6 +226,11 @@
 
 - data integration
   - distributed transaction vs log-based system
+  - kappa architecture vs lambda architecture vs lambda plus architecture
+    - [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
+    - [Lambda Architecture](http://lambda-architecture.net/)
+    - [From Lambda to Kappa: A Guide on Real-time Big Data Architectures](https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/)
+  - batch process vs stream process
 - aiming for correctness
   - the end-to-end argument
     - inner vs outer
