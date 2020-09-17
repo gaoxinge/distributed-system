@@ -59,6 +59,8 @@
 - [arxiv](https://arxiv.org/)
 - [系统](https://zhuanlan.zhihu.com/p/30264473)
 - [数据库](https://www.jianshu.com/p/65570efd0ca3)
+- [LESLIE LAMPORT'S HOME PAGE](http://www.lamport.org/)
+- [Martin Kleppmann](https://martin.kleppmann.com/)
 - [the morning paper](https://blog.acolyer.org/)
 - [The Paper Trail](https://www.the-paper-trail.org/)
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
