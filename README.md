@@ -78,7 +78,7 @@
     - queue/channel
     - message broker
   - 2
-    - block/no block
+    - block/nonblock
     - sync/async
 - log
   - application log
@@ -87,7 +87,7 @@
     - wal log
     - replication log
   - log-based message broker
-  - consensus/atomic broadcast/consistency
+  - consensus/atomic broadcast
   - cdc/etl
 - state
   - stateless
@@ -113,17 +113,8 @@
 - 网络文件存储（FAS）
   - 存储区域网络（SAN）
   - 网络接入存储（SAN）
-
-### 关系
-
-- 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
-
-### 存算分离
-
-- 存储的一致性
-- 计算的一致性
-
-## database
+  
+### 数据库
 
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
@@ -185,3 +176,58 @@
 - [snowflake](./database/data%20warehouse/snowflake)
 - [clickhouse](./database/data%20warehouse/clickhouse)
 - [greenplum](./database/data%20warehouse/greenplum)
+
+### 关系
+
+- 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
+
+### 存算分离
+
+- 存储的一致性
+- 计算的一致性
+
+## message broker
+
+### design
+
+- exact once message passing
+  - atomic commit
+  - idempotent
+- message order
+- fault tolerance
+  - drop message
+  - apply backpressure
+  - buffer message
+    - ring buffer
+    
+### comparison
+
+|                            | tcp                           | message broker |
+|----------------------------|-------------------------------|----------------|
+| exact once message passing | sequence number               | log-based      |
+| message order              | sequence number               | log-based      |
+| falut tolerance            | slide window, traffic control | log-based      |
+
+## data process
+
+### design
+
+- expressive: language, framework, sql
+- throughoutput: partition, parallel
+- fault tolerance
+
+### comparison
+
+|          | spark / flink          | tensorflow / pytorch      | pregel |
+|----------|------------------------|---------------------------|--------|
+| parallel | dag + cluster parallel | dag + standalone parallel |        |
+
+## the future of data systems
+
+- data integration
+  - distributed transaction vs log-based system
+- aiming for correctness
+  - the end-to-end argument
+    - inner vs outer
+  - correctness and fault-tolerance
+  - timeliness and integrity
