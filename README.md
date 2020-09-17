@@ -95,6 +95,9 @@
 - stream
   - immutable
   - mutable
+- process
+  - batch
+  - stream
 
 ## 存储
 
