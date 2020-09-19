@@ -17,6 +17,7 @@
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
+- [分布式系统原理](https://wenku.baidu.com/view/d51da61414791711cc791714)
 - [CSE5306: Distributed Systems](http://ranger.uta.edu/~jrao/CSE5306/fall2020/)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
