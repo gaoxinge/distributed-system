@@ -18,9 +18,8 @@
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
 - [DISTRIBUTED ALGORITHMS](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
 - [CSE5306: Distributed Systems](http://ranger.uta.edu/~jrao/CSE5306/fall2020/)
-- [W4995-1: Distributed Systems](https://www.cs.columbia.edu/~du/ds/)
-- [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
+- [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
 
 ## summary
 
