@@ -37,6 +37,10 @@
 
 - [snapshot](./summary/snapshot)
 
+### concensus
+
+- [raft](./summary/raft)
+
 ### consistency
 
 - [consistency](./summary/consistency)
