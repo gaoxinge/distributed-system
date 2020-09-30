@@ -28,7 +28,9 @@
 
 - [clock](./summary/clock)
 - [lamport clock](./summary/lamport%20clock)
+- [vector clock](./summary/vector%20clock)
 - [matrix clock](./summary/matrix%20clock)
+- [dotted version vectors](./summary/dotted%20version%20vectors)
 - [interval tree clock](./summary/interval%20tree%20clock)
 
 ### snapshot
