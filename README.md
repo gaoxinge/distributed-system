@@ -143,6 +143,7 @@
 - [basic](./database/kv%20database/basic)
 - [leveldb](./database/kv%20database/leveldb)
 - [rocksdb](./database/kv%20database/rocksdb)
+- [pebble](./database/kv%20database/pebble)
 
 ### kv database cluster
 
