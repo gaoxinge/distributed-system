@@ -132,12 +132,6 @@
 - [basic](./database/embedding%20database/basic)
 - [boltdb](./database/embedding%20database/boltdb)
 
-### cache database
-
-- [basic](./database/cache%20database/basic)
-- [redis](./database/cache%20database/redis)
-- [memcached](./database/cache%20database/memcached)
-
 ### kv database
 
 - [basic](./database/kv%20database/basic)
@@ -163,13 +157,6 @@
 
 - [cockroachdb](./database/relational%20database%20cluster/cockroachdb)
 
-### document database
-
-- [basic](./database/document%20database/basic)
-- [mongodb](./database/document%20database/mongodb)
-- [couchdb](./database/document%20database/couchdb)
-- couchbase/membase
-
 ### column database
 
 - [hbase](./database/column%20database/hbase)
@@ -186,9 +173,18 @@
 - [clickhouse](./database/data%20warehouse/clickhouse)
 - [greenplum](./database/data%20warehouse/greenplum)
 
-### 关系
+### cache database
 
-- 数据库 ---> 文件存储 ---> 对象存储 ---> KV存储 ---> 块存储
+- [basic](./database/cache%20database/basic)
+- [redis](./database/cache%20database/redis)
+- [memcached](./database/cache%20database/memcached)
+
+### document database
+
+- [basic](./database/document%20database/basic)
+- [mongodb](./database/document%20database/mongodb)
+- [couchdb](./database/document%20database/couchdb)
+- couchbase/membase
 
 ### 存算分离
 
@@ -208,7 +204,7 @@
   - apply backpressure
   - buffer message
     - ring buffer
-    
+
 ### comparison
 
 |                            | tcp                           | message broker |
