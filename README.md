@@ -109,87 +109,89 @@
 
 ## 存储
 
-- 块存储
+- 日志
 - KV存储
+- 数据库
+- 块存储
 - 对象存储
 - 文件存储
-- 数据库
 
-### 文件存储
+### 存算分离
 
-- 本地文件存储（DAS）
-- 网络文件存储（FAS）
-  - 存储区域网络（SAN）
-  - 网络接入存储（SAN）
-  
-### 数据库
+- 存储的一致性
+- 计算的一致性
+
+### 参考文献
 
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 
 ### cache database
 
-- [basic](./database/cache%20database/basic)
-- [redis](./database/cache%20database/redis)
-- [memcached](./database/cache%20database/memcached)
+- [basic](./storage/cache%20database/basic)
+- [redis](./storage/cache%20database/redis)
+- [memcached](./storage/cache%20database/memcached)
 
 ### embedding database
 
-- [basic](./database/embedding%20database/basic)
-- [boltdb](./database/embedding%20database/boltdb)
+- [basic](./storage/embedding%20database/basic)
+- [boltdb](./storage/embedding%20database/boltdb)
 
 ### kv database
 
-- [basic](./database/kv%20database/basic)
-- [leveldb](./database/kv%20database/leveldb)
-- [rocksdb](./database/kv%20database/rocksdb)
-- [pebble](./database/kv%20database/pebble)
+- [basic](./storage/kv%20database/basic)
+- [leveldb](./storage/kv%20database/leveldb)
+- [rocksdb](./storage/kv%20database/rocksdb)
+- [pebble](./storage/kv%20database/pebble)
 
 ### kv database cluster
 
 - dynamo
-- [voldemort](./database/kv%20database%20cluster/voldemort)
-- [riak](./database/kv%20database%20cluster/riak)
-- [gobeansdb](./database/kv%20database%20cluster/gobeansdb)
+- [voldemort](./storage/kv%20database%20cluster/voldemort)
+- [riak](./storage/kv%20database%20cluster/riak)
+- [gobeansdb](./storage/kv%20database%20cluster/gobeansdb)
 
 ### relational database
 
-- [basic](./database/relational%20database/basic)
+- [basic](./storage/relational%20database/basic)
 - oracle
-- [mysql](./database/relational%20database//mysql)
-- [postgres](./database/relational%20database/postgres)
+- [mysql](./storage/relational%20database//mysql)
+- [postgres](./storage/relational%20database/postgres)
 
 ### relational database cluster
 
-- [cockroachdb](./database/relational%20database%20cluster/cockroachdb)
+- [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 
 ### column database
 
-- [hbase](./database/column%20database/hbase)
-- [cassandra](./database/column%20database/cassandra)
+- [hbase](./storage/column%20database/hbase)
+- [cassandra](./storage/column%20database/cassandra)
 
 ### sql no hadoop
 
-- [pig](./database/sql%20on%20hadoop/pig)
-- [hive](./database/sql%20on%20hadoop/hive)
+- [pig](./storage/sql%20on%20hadoop/pig)
+- [hive](./storage/sql%20on%20hadoop/hive)
 
 ### data warehouse
 
-- [snowflake](./database/data%20warehouse/snowflake)
-- [clickhouse](./database/data%20warehouse/clickhouse)
-- [greenplum](./database/data%20warehouse/greenplum)
+- [snowflake](./storage/data%20warehouse/snowflake)
+- [clickhouse](./storage/data%20warehouse/clickhouse)
+- [greenplum](./storage/data%20warehouse/greenplum)
 
 ### document database
 
-- [basic](./database/document%20database/basic)
-- [mongodb](./database/document%20database/mongodb)
-- [couchdb](./database/document%20database/couchdb)
+- [basic](./storage/document%20database/basic)
+- [mongodb](./storage/document%20database/mongodb)
+- [rethinkdb](./storage/document%20database/rethinkdb)
+- [couchdb](./storage/document%20database/couchdb)
 - couchbase/membase
 
-### 存算分离
+### file system
 
-- 存储的一致性
-- 计算的一致性
+- [basic](./storage/file%20system/basic)
+- [hdfs](./storage/file%20system/hdfs)
+- [curve](./storage/file%20system/curve)
+- [ceph](./storage/file%20system/ceph)
 
 ## message broker
 
