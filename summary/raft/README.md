@@ -2,6 +2,10 @@
 
 - [raft一致性算法](https://cizixs.com/2017/12/04/raft-consensus-algorithm/)
 
+## my article
+
+- [raft：选主]()
+
 ## source code
 
 - [eliben/raft](https://github.com/eliben/raft)
