@@ -135,11 +135,11 @@
 ### embedding database
 
 - [basic](./storage/embedding%20database/basic)
-- [boltdb](./storage/embedding%20database/boltdb)
 
 ### kv database
 
 - [basic](./storage/kv%20database/basic)
+- [boltdb](./storage/kv%20database/boltdb)
 - [leveldb](./storage/kv%20database/leveldb)
 - [rocksdb](./storage/kv%20database/rocksdb)
 - [pebble](./storage/kv%20database/pebble)
