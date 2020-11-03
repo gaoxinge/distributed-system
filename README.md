@@ -126,16 +126,6 @@
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
 
-### cache database
-
-- [basic](./storage/cache%20database/basic)
-- [redis](./storage/cache%20database/redis)
-- [memcached](./storage/cache%20database/memcached)
-
-### embedding database
-
-- [basic](./storage/embedding%20database/basic)
-
 ### kv database
 
 - [basic](./storage/kv%20database/basic)
@@ -177,6 +167,12 @@
 - [snowflake](./storage/data%20warehouse/snowflake)
 - [clickhouse](./storage/data%20warehouse/clickhouse)
 - [greenplum](./storage/data%20warehouse/greenplum)
+
+### cache database
+
+- [basic](./storage/cache%20database/basic)
+- [redis](./storage/cache%20database/redis)
+- [memcached](./storage/cache%20database/memcached)
 
 ### document database
 
