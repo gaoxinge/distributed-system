@@ -144,6 +144,7 @@
 ### relational database
 
 - [basic](./storage/relational%20database/basic)
+- [sqlite](./storage/relational%20database/sqlite)
 - oracle
 - [mysql](./storage/relational%20database/mysql)
 - [postgres](./storage/relational%20database/postgres)
