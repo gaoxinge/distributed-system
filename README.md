@@ -145,7 +145,7 @@
 
 - [basic](./storage/relational%20database/basic)
 - oracle
-- [mysql](./storage/relational%20database//mysql)
+- [mysql](./storage/relational%20database/mysql)
 - [postgres](./storage/relational%20database/postgres)
 
 ### relational database cluster
