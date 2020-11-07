@@ -152,6 +152,7 @@
 ### relational database cluster
 
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
+- [yugabytedb](./storage/relational%20database%20cluster/yugabytedb)
 
 ### column database
 
