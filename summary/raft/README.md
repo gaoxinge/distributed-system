@@ -5,7 +5,8 @@
 ## my article
 
 - [raft：选主](https://zhuanlan.zhihu.com/p/267010532)
-- [raft：日志复制]()
+- [raft：日志复制](https://zhuanlan.zhihu.com/p/269137058)
+- [raft：工程](https://zhuanlan.zhihu.com/p/270015295)
 
 ## source code
 
