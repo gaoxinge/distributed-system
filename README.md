@@ -194,16 +194,21 @@
 - [hbase](./storage/column%20database/hbase)
 - [cassandra](./storage/column%20database/cassandra)
 
-### sql no hadoop
+### sql no nosql
 
-- [pig](./storage/sql%20on%20hadoop/pig)
-- [hive](./storage/sql%20on%20hadoop/hive)
+- [pig](./storage/sql%20on%20nosql/pig)
+- [hive](./storage/sql%20on%20nosql/hive)
+- [drill](./storage/sql%20on%20nosql/drill)
+- [impala](./storage/sql%20on%20nosql/impala)
+- [presto](./storage/sql%20on%20nosql/presto)
 
 ### data warehouse
 
 - [snowflake](./storage/data%20warehouse/snowflake)
 - [clickhouse](./storage/data%20warehouse/clickhouse)
 - [greenplum](./storage/data%20warehouse/greenplum)
+- [doris](./storage/data%20warehouse/doris)
+- [kudu](./storage/data%20warehouse/kudu)
 
 ## message broker
 
