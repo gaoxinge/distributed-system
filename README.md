@@ -109,22 +109,42 @@
 
 ## 存储
 
-- 日志
-- KV存储
+### 分类
+
 - 数据库
-- 块存储
-- 对象存储
-- 文件存储
+- KV存储/对象存储
+- 文件存储/块存储
+- 日志
 
 ### 存算分离
 
-- 存储的一致性
 - 计算的一致性
+- 存储的一致性
+
+### 架构
+
+```
++--------------+
+| sql          |
++--------------+
+| data process |
++--------------+
+| nosql        |
++--------------+
+| log          |
++--------------+
+```
 
 ### 参考文献
 
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
+
+### cache database
+
+- [basic](./storage/cache%20database/basic)
+- [redis](./storage/cache%20database/redis)
+- [memcached](./storage/cache%20database/memcached)
 
 ### kv database
 
@@ -154,6 +174,21 @@
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 - [yugabytedb](./storage/relational%20database%20cluster/yugabytedb)
 
+### file system
+
+- [basic](./storage/file%20system/basic)
+- [hdfs](./storage/file%20system/hdfs)
+- [curve](./storage/file%20system/curve)
+- [ceph](./storage/file%20system/ceph)
+
+### document database
+
+- [basic](./storage/document%20database/basic)
+- [mongodb](./storage/document%20database/mongodb)
+- [rethinkdb](./storage/document%20database/rethinkdb)
+- [couchdb](./storage/document%20database/couchdb)
+- couchbase/membase
+
 ### column database
 
 - [hbase](./storage/column%20database/hbase)
@@ -169,27 +204,6 @@
 - [snowflake](./storage/data%20warehouse/snowflake)
 - [clickhouse](./storage/data%20warehouse/clickhouse)
 - [greenplum](./storage/data%20warehouse/greenplum)
-
-### cache database
-
-- [basic](./storage/cache%20database/basic)
-- [redis](./storage/cache%20database/redis)
-- [memcached](./storage/cache%20database/memcached)
-
-### document database
-
-- [basic](./storage/document%20database/basic)
-- [mongodb](./storage/document%20database/mongodb)
-- [rethinkdb](./storage/document%20database/rethinkdb)
-- [couchdb](./storage/document%20database/couchdb)
-- couchbase/membase
-
-### file system
-
-- [basic](./storage/file%20system/basic)
-- [hdfs](./storage/file%20system/hdfs)
-- [curve](./storage/file%20system/curve)
-- [ceph](./storage/file%20system/ceph)
 
 ## message broker
 
