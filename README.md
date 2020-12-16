@@ -236,7 +236,9 @@
 
 ### design
 
-- expressive: language, framework, sql
+- expressive: sql
+- expressive: dag, fork-join
+- expressive: language, framework
 - throughoutput: partition, parallel
 - fault tolerance
 
