@@ -6,3 +6,7 @@
 ## source code
 
 - [bitcask](https://github.com/basho/bitcask)
+
+## design
+
+- [design](./design.md)
