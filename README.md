@@ -153,6 +153,7 @@
 - [leveldb](./storage/kv%20database/leveldb)
 - [rocksdb](./storage/kv%20database/rocksdb)
 - [pebble](./storage/kv%20database/pebble)
+- [bitcask](./storage/kv%20database/bitcask)
 
 ### kv database cluster
 
