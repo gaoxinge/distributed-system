@@ -4,6 +4,11 @@
 - [DBM](https://en.wikipedia.org/wiki/DBM)
 - [LMDB](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database)
 
+## paper
+
+- [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
+- [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
+
 ## article
 
 - [如何将SQL数据映射到KV数据库](https://segmentfault.com/a/1190000008343682)
