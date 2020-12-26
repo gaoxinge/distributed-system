@@ -8,6 +8,8 @@
 
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
+- [Name that compaction algorithm](http://smalldatum.blogspot.com/2018/08/name-that-compaction-algorithm.html)
+- [LSM math: revisiting the number of levels that minimizes write amplification](http://smalldatum.blogspot.com/2019/01/lsm-math-revisiting-number-of-levels.html)
 
 ## article
 
