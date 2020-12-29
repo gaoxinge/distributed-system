@@ -39,6 +39,7 @@
 
 ### concensus
 
+- [pacifica](./summary/pacifica)
 - [raft](./summary/raft)
 
 ### consistency
