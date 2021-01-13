@@ -39,6 +39,7 @@
 
 ### concensus
 
+- [paxos](./summary/paxos)
 - [raft](./summary/raft)
 - [pacifica](./summary/pacifica)
 
