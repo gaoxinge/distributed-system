@@ -39,6 +39,7 @@
 
 ### concensus
 
+- [viewstamped replication](./summary/viewstamped%20replication)
 - [paxos](./summary/paxos)
 - [raft](./summary/raft)
 - [pacifica](./summary/pacifica)
