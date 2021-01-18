@@ -63,6 +63,11 @@
 
 - [shared memory](./summary/shared%20memory)
 
+### impossibility
+
+- [cap](./summary/cap)
+- [flp](./summary/flp)
+
 ## reference
 
 - [arxiv](https://arxiv.org/)
