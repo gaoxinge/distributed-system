@@ -65,12 +65,13 @@
 
 ### impossibility
 
-- [cap](./summary/cap)
 - [flp](./summary/flp)
+- [cap](./summary/cap)
 
 ### formal verification
 
 - [coq](./summary/coq)
+- [tla](./summary/tla)
 
 ## reference
 
