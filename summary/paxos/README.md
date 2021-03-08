@@ -9,6 +9,7 @@
 
 - [Single-Decree Paxos](https://mwhittaker.github.io/blog/single_decree_paxos/)
 - [Paxos at its heart is very simple](https://blog.the-pans.com/paxos-explained/)
+- [Understanding Paxos](https://understandingpaxos.wordpress.com/)
 - [Understanding Paxos – Part 1](https://distributedthoughts.com/2013/09/22/understanding-paxos-part-1/)
 - [Understanding Paxos – Part 2](https://distributedthoughts.com/2013/09/30/understanding-paxos-part-2/)
 - [Paxos Made Easy: Paxos算法的几何意义与证明](https://zhuanlan.zhihu.com/p/142999513)
