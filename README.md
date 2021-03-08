@@ -209,11 +209,12 @@
 - [hbase](./storage/column%20database/hbase)
 - [cassandra](./storage/column%20database/cassandra)
 
-### sql no nosql
+### sql on nosql
 
 - [pig](./storage/sql%20on%20nosql/pig)
 - [hive](./storage/sql%20on%20nosql/hive)
 - [drill](./storage/sql%20on%20nosql/drill)
+- [kylin](./storage/sql%20on%20nosql/kylin)
 - [impala](./storage/sql%20on%20nosql/impala)
 - [presto](./storage/sql%20on%20nosql/presto)
 
