@@ -34,6 +34,15 @@
 - [dotted version vectors](./summary/dotted%20version%20vectors)
 - [interval tree clock](./summary/interval%20tree%20clock)
 
+### conflict
+
+- [conflict](./summary/conflict)
+- [mpds](./summary/mpds)
+- [git](./summary/git)
+- [ot](./summary/ot)
+- [mrdt](./summary/mrdt)
+- [crdt](./summary/crdt)
+
 ### snapshot
 
 - [snapshot](./summary/snapshot)
@@ -51,15 +60,6 @@
 - [consistency](./summary/consistency)
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
-
-### conflict
-
-- [conflict](./summary/conflict)
-- [mpds](./summary/mpds)
-- [git](./summary/git)
-- [ot](./summary/ot)
-- [mrdt](./summary/mrdt)
-- [crdt](./summary/crdt)
 
 ### shared memory
 
