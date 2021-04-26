@@ -34,6 +34,10 @@
 - [dotted version vectors](./summary/dotted%20version%20vectors)
 - [interval tree clock](./summary/interval%20tree%20clock)
 
+### snapshot
+
+- [snapshot](./summary/snapshot)
+
 ### conflict
 
 - [conflict](./summary/conflict)
@@ -42,10 +46,6 @@
 - [ot](./summary/ot)
 - [mrdt](./summary/mrdt)
 - [crdt](./summary/crdt)
-
-### snapshot
-
-- [snapshot](./summary/snapshot)
 
 ### concensus
 
