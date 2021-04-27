@@ -11,6 +11,11 @@
 - [Key-CRDT Stores](https://run.unl.pt/bitstream/10362/7802/1/Sousa_2012.pdf)
 - [Convergent and Commutative Replicated Data Type](https://core.ac.uk/download/pdf/55634119.pdf)
 - [Conflict-free Replicated Data Types (CRDTs) for collaborative environments](http://events.telecom-sudparis.eu/wetice/invited_speakers/ShapiroKeyNote.pdf)
+- [ept/crdt-website](https://github.com/ept/crdt-website)
+- [pfrazee/crdt_notes](https://github.com/pfrazee/crdt_notes)
+- [ipfs/notes/CRDT](https://github.com/ipfs/notes/tree/master/CRDT)
+- [A Bluffers Guide to CRDTs in Riak](https://gist.github.com/russelldb/f92f44bdfb619e089a4d)
+- [orbitdb/crdts](https://github.com/orbitdb/crdts)
 
 ## article
 
