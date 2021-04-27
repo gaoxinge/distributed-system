@@ -20,3 +20,7 @@
 ## article
 
 - [CRDT: Conflict-free Replicated Data Types](https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26)
+- [Strong Eventual Consistency and Conflict-free Replicated Data Types](https://www.youtube.com/watch?v=oyUHd894w18)
+- [Eventually-Consistent Data Structures](https://www.infoq.com/presentations/CRDT/)
+- [携程Redis跨IDC多向同步实践](https://zhuanlan.zhihu.com/p/83298388)
+- [基于TLA+的CRDT协议验证框架](https://zhuanlan.zhihu.com/p/86256851)
