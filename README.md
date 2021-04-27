@@ -41,9 +41,9 @@
 ### conflict
 
 - [conflict](./summary/conflict)
-- [mpds](./summary/mpds)
 - [git](./summary/git)
 - [ot](./summary/ot)
+- [mpds](./summary/mpds)
 - [mrdt](./summary/mrdt)
 - [crdt](./summary/crdt)
 
