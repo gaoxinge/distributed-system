@@ -60,6 +60,7 @@
 - [consistency](./summary/consistency)
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
+- [pram consistency](./summary/pram%20consistency)
 
 ### shared memory
 
