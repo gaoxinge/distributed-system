@@ -1,3 +1,13 @@
+## architecture
+
+|consistency|局部性|clock|conflict|concensus|服务端保证客户端|
+|-|-|-|-|-|-|
+|linearizability|Y|total order|no conflict/no concurrency|Y|Y|
+|sequential consistency||total order||||
+|causal consistency||partial order||||
+|pram consistency||||||
+|eventual consistency||||||
+
 ## wiki
 
 - [Consistency model](https://en.wikipedia.org/wiki/Consistency_model)
