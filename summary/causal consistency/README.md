@@ -10,3 +10,6 @@
 - [Causal Consistency: Beyond Memory](https://arxiv.org/abs/1603.04199)
 - [Causal Consistency: Beyond Memory](https://www.researchgate.net/publication/310822295_Causal_Consistency_Beyond_Memory)
 - [Causal Consistency: Beyond Memory](https://hal.archives-ouvertes.fr/hal-01286755/document)
+- [A Short Primer on Causal Consistency](https://www.usenix.org/system/files/login/articles/08_lloyd_41-43_online.pdf)
+- [Writes: the dirty secret of causal consistency](http://sites.computer.org/debull/A17dec/p15.pdf)
+- [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://sns.cs.princeton.edu/assets/papers/2011-sosp-lloyd.pdf)
