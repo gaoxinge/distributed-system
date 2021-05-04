@@ -5,6 +5,11 @@
 
 ## paper
 
+- [Consistency models in modern distributed systems. An approach to Eventual Consistency.](https://riunet.upv.es/bitstream/handle/10251/54786/TFMLeticiaPascual.pdf)
+- [Consistency Part 2](http://www.cs.iit.edu/~iraicu/teaching/CS550-S11/lecture16.pdf)
+- [Lec 12: Consistency Models – Sequential, Causal, and Eventual Consistency](https://www.cs.columbia.edu/~du/ds/assets/lectures/lecture12.pdf)
+- [Consistency and Replication](https://www.cs.ucr.edu/~nael/cs202/lectures/lec15.pdf)
+- [Consistency and Replication](http://csis.pace.edu/~marchese/CS865/Lectures/Chap7/Chapter7fin.htm)
 - [10 consistency](http://www.cs.cmu.edu/~srini/15-446/S09/lectures/10-consistency.pdf)
 - [CONSISTENCY](http://www.cs.cornell.edu/courses/cs5414/2017fa/notes/week12.pdf)
 - [Consistency, causal and eventual](https://sergeiturukin.com/2017/06/29/eventual-consistency.html)
