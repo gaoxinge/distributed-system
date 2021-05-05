@@ -185,6 +185,7 @@
 - [sqlite](./storage/relational%20database/sqlite)
 - oracle
 - [mysql](./storage/relational%20database/mysql)
+- [myrocks](./storage/relational%20database/myrocks)
 - [postgres](./storage/relational%20database/postgres)
 
 ### relational database cluster
