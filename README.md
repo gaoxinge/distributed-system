@@ -196,6 +196,7 @@
 ### file system
 
 - [basic](./storage/file%20system/basic)
+- [gfs](./storage/file%20system/gfs)
 - [hdfs](./storage/file%20system/hdfs)
 - [curve](./storage/file%20system/curve)
 - [ceph](./storage/file%20system/ceph)
