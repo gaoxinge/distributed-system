@@ -38,6 +38,15 @@
 
 - [snapshot](./summary/snapshot)
 
+### conflict
+
+- [conflict](./summary/conflict)
+- [git](./summary/git)
+- [ot](./summary/ot)
+- [mpds](./summary/mpds)
+- [mrdt](./summary/mrdt)
+- [crdt](./summary/crdt)
+
 ### concensus
 
 - [viewstamped replication](./summary/viewstamped%20replication)
@@ -51,15 +60,8 @@
 - [consistency](./summary/consistency)
 - [linearizability](./summary/linearizability)
 - [sequential consistency](./summary/sequential%20consistency)
-
-### conflict
-
-- [conflict](./summary/conflict)
-- [mpds](./summary/mpds)
-- [git](./summary/git)
-- [ot](./summary/ot)
-- [mrdt](./summary/mrdt)
-- [crdt](./summary/crdt)
+- [causal consistency](./summary/causal%20consistency)
+- [pram consistency](./summary/pram%20consistency)
 
 ### shared memory
 
@@ -183,6 +185,7 @@
 - [sqlite](./storage/relational%20database/sqlite)
 - oracle
 - [mysql](./storage/relational%20database/mysql)
+- [myrocks](./storage/relational%20database/myrocks)
 - [postgres](./storage/relational%20database/postgres)
 
 ### relational database cluster
@@ -193,6 +196,7 @@
 ### file system
 
 - [basic](./storage/file%20system/basic)
+- [gfs](./storage/file%20system/gfs)
 - [hdfs](./storage/file%20system/hdfs)
 - [curve](./storage/file%20system/curve)
 - [ceph](./storage/file%20system/ceph)
