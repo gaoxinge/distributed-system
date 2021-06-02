@@ -196,6 +196,7 @@
 - [oceanbase](./storage/relational%20database%20cluster/oceanbase)
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 - [yugabytedb](./storage/relational%20database%20cluster/yugabytedb)
+- [datafuse](./storage/relational%20database%20cluster/datafuse)
 
 ### file system
 
