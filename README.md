@@ -191,6 +191,7 @@
 ### relational database cluster
 
 - [kunlun](./storage/relational%20database%20cluster/kunlun)
+- [baikaldb](./storage/relational%20database%20cluster/baikaldb)
 - [polardb](./storage/relational%20database%20cluster/polardb)
 - [oceanbase](./storage/relational%20database%20cluster/oceanbase)
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
