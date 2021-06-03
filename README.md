@@ -174,7 +174,7 @@
 
 ### kv database cluster
 
-- dynamo
+- [dynamo](./storage/kv%20database%20cluster/dynamo)
 - [voldemort](./storage/kv%20database%20cluster/voldemort)
 - [riak](./storage/kv%20database%20cluster/riak)
 - [gobeansdb](./storage/kv%20database%20cluster/gobeansdb)
