@@ -38,6 +38,10 @@
 
 - [snapshot](./summary/snapshot)
 
+### gossip
+
+- [gossip](./summary/gossip)
+
 ### conflict
 
 - [conflict](./summary/conflict)
