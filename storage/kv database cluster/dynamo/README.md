@@ -6,7 +6,7 @@
 
 |problem|technique|
 |-|-|
-|partition|consistence hashing|
+|partition|consistent hashing|
 |replication|quorum|
 |consistency|vector clock|
 |membership|gossip
