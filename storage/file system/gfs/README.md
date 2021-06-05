@@ -1,6 +1,6 @@
-## source code
+## paper
 
-- [goGFS](https://github.com/merrymercy/goGFS)
+- [The Google File System](https://pdos.csail.mit.edu/6.824/papers/gfs.pdf)
 
 ## article
 
@@ -12,3 +12,7 @@
 - [GFS FAQ](https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt)
 - [6.824 2020 Lecture 3: GFS](https://pdos.csail.mit.edu/6.824/notes/l-gfs.txt)
 - [Google File System Consistency Model](https://stackoverflow.com/questions/27864495/google-file-system-consistency-model)
+
+## source code
+
+- [goGFS](https://github.com/merrymercy/goGFS)
