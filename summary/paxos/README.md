@@ -14,6 +14,11 @@
 - [Understanding Paxos – Part 2](https://distributedthoughts.com/2013/09/30/understanding-paxos-part-2/)
 - [Paxos Made Easy: Paxos算法的几何意义与证明](https://zhuanlan.zhihu.com/p/142999513)
 
+## my article
+
+- [basic paxos (一)](https://zhuanlan.zhihu.com/p/347792579)
+- [basic paxos (二)](https://zhuanlan.zhihu.com/p/354670381)
+
 ## source code
 
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
