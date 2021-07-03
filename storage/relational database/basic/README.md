@@ -7,6 +7,7 @@
 
 ### database
 
+- [Database Management Systems](https://book.douban.com/subject/2252163/)
 - [数据库系统概念](https://book.douban.com/subject/10548379/)
 
 ### sql
