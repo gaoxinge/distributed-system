@@ -58,6 +58,7 @@
 - [raft](./summary/raft)
 - [zab](./summary/zab)
 - [pacifica](./summary/pacifica)
+- [bookeeper](./summary/bookeeper)
 
 ### consistency
 
