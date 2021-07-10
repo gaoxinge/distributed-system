@@ -27,6 +27,7 @@
 ## tutorial
 
 - [cmu database group](https://db.cs.cmu.edu/courses/)
+  - [15-415/615 — DATABASE APPLICATIONS](https://15415.courses.cs.cmu.edu/fall2016/)
 
 ## practice
 
