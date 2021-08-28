@@ -1,6 +1,6 @@
 ## architecture
 
-|                          | leader follwoer                      | writer logger                        |
+|                          | leader follower                      | writer logger                        |
 |--------------------------|--------------------------------------|--------------------------------------|
 | heartbeat                | registry / cluster                   | writer: registry / logger: writer    |
 | leader eletion           | registry                             | registry                             |
