@@ -9,3 +9,7 @@
 - [Apache BookKeeper](https://events.static.linuxfound.org/sites/events/files/slides/Apache%20BookKeeper%20%23Vault.pdf)
 - [Introduction to Apache BookKeeper Distributed Storage](https://www.slideshare.net/streamlio/introduction-to-apache-bookkeeper-distributed-storage)
 - [Pulsar-Cloud Native Messaging & Streaming](https://www.slidestalk.com/ApachePulsar/pulsar_cloud_native_messaging_and_streaming)
+- [BookKeeper 集群搭建及使用](http://matt33.com/2018/10/19/bk-cluster-install-and-use/)
+- [BookKeeper 原理浅谈](http://matt33.com/2019/01/28/bk-store-realize/)
+- [Twitter高性能分布式日志系统架构解析](https://mp.weixin.qq.com/s/0dkgA8swNPkpcY5H6CU62w)
+- [Pulsar笔记](http://alexstocks.github.io/html/pulsar.html)
