@@ -60,6 +60,7 @@
 - kafka
 - [bookeeper](./summary/bookeeper)
 - [pacifica](./summary/pacifica)
+- [summary](./summary/concensus_summary)
 
 ### consistency
 
