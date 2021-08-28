@@ -57,8 +57,9 @@
 - [paxos](./summary/paxos)
 - [raft](./summary/raft)
 - [zab](./summary/zab)
-- [pacifica](./summary/pacifica)
+- kafka
 - [bookeeper](./summary/bookeeper)
+- [pacifica](./summary/pacifica)
 
 ### consistency
 
