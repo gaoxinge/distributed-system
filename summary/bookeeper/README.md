@@ -7,4 +7,5 @@
 - [Durability with BookKeeper](https://www.cs.princeton.edu/~wlloyd/classes/599s15/slides/20_Bookkeeper.pdf)
 - [Durability with BookKeeper](https://pdfs.semanticscholar.org/0730/005a7a7bcd87ba6bd9a092e4fe1a2944a407.pdf)
 - [Apache BookKeeper](https://events.static.linuxfound.org/sites/events/files/slides/Apache%20BookKeeper%20%23Vault.pdf)
+- [Introduction to Apache BookKeeper Distributed Storage](https://www.slideshare.net/streamlio/introduction-to-apache-bookkeeper-distributed-storage)
 - [Pulsar-Cloud Native Messaging & Streaming](https://www.slidestalk.com/ApachePulsar/pulsar_cloud_native_messaging_and_streaming)
