@@ -1,3 +1,7 @@
+## paper
+
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn)
+
 ## article
 
 - [raft一致性算法](https://cizixs.com/2017/12/04/raft-consensus-algorithm/)
