@@ -8,13 +8,13 @@
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Notes on Distributed Systems for Young Bloods](https://wenku.baidu.com/view/2ed750eeaf1ffc4fff47ac70.html)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
-- [设计数据密集型应用](https://github.com/Vonng/ddia)
-- [分布式系统前沿技术](https://www.infoq.cn/theme/48)
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
+- [设计数据密集型应用](https://github.com/Vonng/ddia)
+- [分布式系统前沿技术](https://www.infoq.cn/theme/48)
 
 ## algorithm
 
