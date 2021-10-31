@@ -12,6 +12,9 @@
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 - [设计数据密集型应用](https://github.com/Vonng/ddia)
 - [分布式系统前沿技术](https://www.infoq.cn/theme/48)
+- [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
 ## algorithm
 
@@ -22,6 +25,20 @@
 - [CSE5306: Distributed Systems](http://ranger.uta.edu/~jrao/CSE5306/fall2020/)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
+
+## reference
+
+- [arxiv](https://arxiv.org/)
+- [系统](https://zhuanlan.zhihu.com/p/30264473)
+- [数据库](https://www.jianshu.com/p/65570efd0ca3)
+- [LESLIE LAMPORT'S HOME PAGE](http://www.lamport.org/)
+- [Martin Kleppmann](https://martin.kleppmann.com/)
+- [the morning paper](https://blog.acolyer.org/)
+- [The Paper Trail](https://www.the-paper-trail.org/)
+
+### sosp
+
+- [2021](https://sosp2021.mpi-sws.org/program.html)
 
 ## summary
 
@@ -83,19 +100,6 @@
 
 - [coq](./summary/coq)
 - [tla](./summary/tla)
-
-## reference
-
-- [arxiv](https://arxiv.org/)
-- [系统](https://zhuanlan.zhihu.com/p/30264473)
-- [数据库](https://www.jianshu.com/p/65570efd0ca3)
-- [LESLIE LAMPORT'S HOME PAGE](http://www.lamport.org/)
-- [Martin Kleppmann](https://martin.kleppmann.com/)
-- [the morning paper](https://blog.acolyer.org/)
-- [The Paper Trail](https://www.the-paper-trail.org/)
-- [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
-- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 
 ## architecture
 
