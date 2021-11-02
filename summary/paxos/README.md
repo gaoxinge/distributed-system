@@ -23,3 +23,4 @@
 ## source code
 
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
+- [Tencent/paxosstore](https://github.com/Tencent/paxosstore)
