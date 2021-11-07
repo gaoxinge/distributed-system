@@ -250,6 +250,7 @@
 - [greenplum](./storage/data%20warehouse/greenplum)
 - [doris](./storage/data%20warehouse/doris)
 - [kudu](./storage/data%20warehouse/kudu)
+- [datafuse](./storage/data%20warehouse/datafuse)
 
 ## message broker
 
