@@ -233,23 +233,20 @@
 - [hbase](./storage/column%20database/hbase)
 - [cassandra](./storage/column%20database/cassandra)
 
-### sql on nosql
+### other
 
-- [pig](./storage/sql%20on%20nosql/pig)
-- [hive](./storage/sql%20on%20nosql/hive)
-- [drill](./storage/sql%20on%20nosql/drill)
-- [kylin](./storage/sql%20on%20nosql/kylin)
-- [impala](./storage/sql%20on%20nosql/impala)
-- [presto](./storage/sql%20on%20nosql/presto)
-
-### data warehouse
-
-- [snowflake](./storage/data%20warehouse/snowflake)
-- [datafuse](./storage/data%20warehouse/datafuse)
-- [clickhouse](./storage/data%20warehouse/clickhouse)
-- [greenplum](./storage/data%20warehouse/greenplum)
-- [doris](./storage/data%20warehouse/doris)
-- [kudu](./storage/data%20warehouse/kudu)
+- [pig](./storage/other/pig)
+- [hive](./storage/other/hive)
+- [drill](./storage/other/drill)
+- [kylin](./storage/other/kylin)
+- [impala](./storage/other/impala)
+- [presto](./storage/other/presto)
+- [snowflake](./storage/other/snowflake)
+- [datafuse](./storage/other/datafuse)
+- [clickhouse](./storage/other/clickhouse)
+- [greenplum](./storage/other/greenplum)
+- [doris](./storage/other/doris)
+- [kudu](./storage/other/kudu)
 
 ## message broker
 
