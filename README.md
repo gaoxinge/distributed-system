@@ -236,8 +236,11 @@
 
 ### other
 
+- [mr](./storage/other/mr)
 - [pig](./storage/other/pig)
 - [hive](./storage/other/hive)
+- [dremel](./storage/other/dremel)
+- [bigquery](./storage/other/bigquery)
 - [drill](./storage/other/drill)
 - [kylin](./storage/other/kylin)
 - [impala](./storage/other/impala)
