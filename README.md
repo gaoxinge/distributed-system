@@ -249,6 +249,7 @@
 - [datafuse](./storage/other/datafuse)
 - [matrixorigin](./storage/other/matrixorigin)
 - [clickhouse](./storage/other/clickhouse)
+- [hologres](./storage/other/hologres)
 - [greenplum](./storage/other/greenplum)
 - [starrocks](./storage/other/starrocks)
 - [doris](./storage/other/doris)
