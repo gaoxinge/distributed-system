@@ -166,6 +166,7 @@
 ### 常用网站
 
 - [db ranking](https://db-engines.com/en/ranking)
+- [阿里云服务产品目录](https://yunjisuanfuwu.com/aliyun)
 
 ### 参考文献
 
