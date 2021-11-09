@@ -247,6 +247,7 @@
 - [matrixorigin](./storage/other/matrixorigin)
 - [clickhouse](./storage/other/clickhouse)
 - [greenplum](./storage/other/greenplum)
+- [starrocks](./storage/other/starrocks)
 - [doris](./storage/other/doris)
 - [kudu](./storage/other/kudu)
 
