@@ -33,8 +33,12 @@
 - [数据库](https://www.jianshu.com/p/65570efd0ca3)
 - [LESLIE LAMPORT'S HOME PAGE](http://www.lamport.org/)
 - [Martin Kleppmann](https://martin.kleppmann.com/)
-- [the morning paper](https://blog.acolyer.org/)
 - [The Paper Trail](https://www.the-paper-trail.org/)
+- [the morning paper](https://blog.acolyer.org/)
+- [Metadata](http://muratbuffalo.blogspot.com/)
+- [Read, Write, Execute](http://hh360.user.srcf.net/blog/)
+- [Marc's Blog](https://brooker.co.za/blog/)
+- [Peter Bailis :: Highly Available, Seldom Consistent](http://www.bailis.org/blog/)
 
 ### sosp
 
