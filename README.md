@@ -189,6 +189,8 @@
 - [boltdb](./storage/kv%20database/boltdb)
 - [leveldb](./storage/kv%20database/leveldb)
 - [rocksdb](./storage/kv%20database/rocksdb)
+- [agatedb](./storage/kv%20database/agatedb)
+- [terarkdb](./storage/kv%20database/terarkdb)
 - [pebble](./storage/kv%20database/pebble)
 - [bitcask](./storage/kv%20database/bitcask)
 
