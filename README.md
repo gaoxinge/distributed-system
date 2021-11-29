@@ -244,6 +244,7 @@
 
 ### other
 
+- [olap](./storage/other/olap)
 - [mr](./storage/other/mr)
 - [pig](./storage/other/pig)
 - [hive](./storage/other/hive)
