@@ -31,5 +31,6 @@
 
 ## practice
 
+- [数据库内核杂谈](https://www.infoq.cn/profile/2E2516A8916716/publish)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
