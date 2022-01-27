@@ -26,7 +26,6 @@ int main(int argc, char *argv[]) {
     std::cout << "====================================" << std::endl;
     std::cout << table << std::endl;
 
-
     std::string query = "select a, b from t where a > 1 order by a limit 3 offset 1;";
     hsql::SQLParserResult result;
     hsql::SQLParser::parse(query, &result);
