@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(project)
+project(project1)
 
 file(GLOB_RECURSE SOURCES external/sql-parser/src/*.cpp)
 add_library(SQLParser "${SOURCES}")
