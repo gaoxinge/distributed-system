@@ -1,0 +1,488 @@
+
+                      PROGRAMMER'S MANUAL
+
+
+OVERVIEW:
+
+The B-Tree program implements a data base of key words.  The key
+words are members of text documents, each of which has been
+concatenated to a main text file.  A key may contain up to
+MAXWORDSIZE characters. 
+
+The program creates and maintains a B-Tree with the property that 
+all keys are stored, with their relative data, in the leaves of 
+the tree, and all intermediate pages contain pointers which lead
+to the leaves, i.e., all successful searching will lead to a leaf.
+The Root is always stored as the first page.
+
+The program performs as follows:
+
+(1)  Concatenate the new text document to the main text file.
+
+(2)  Execute the function FindNumPagesInTree.  This function
+     reads the second field of the Root:  this field initially 
+     contains the number of pages contained within the B-Tree.
+     After recording the number of pages in the variable
+     PAGENUM, reset this field to contain it's proper page number
+     which is defined in ROOT.
+
+(3)  Upon reading a key word from the text document, determine 
+     if the B-Tree exists or does not exist.
+
+       .If the B-Tree does not exist, create the Root, create the first  
+        Leaf page, create a Postings record in the Postings file (this
+        Postings record will contain the key's offset within the Text
+        file).  Insert into the B-Tree the key and the Postings record 
+        offset. 
+    
+       .If the B-Tree does exist, search the B-Tree to determine if the  
+        key is already inserted or not.  
+
+          .If the key is not in the B-Tree, create a Postings record
+           (again, this Postings record will contain the key's offset
+           within the Text file).  Insert into the B-Tree the key and
+           the Postings record offset.  
+
+          .If the key is already in the B-Tree, update the Postings
+           record to contain the new offset within the Text file.
+
+     Repeat until document EOF (Text file).
+
+(4)  Store the number of pages contained within the B-Tree in the second
+     field of the ROOT page.
+
+
+FILES:
+
+The files that are accessed and utilized are as follows:
+
+(1)  '*fp1' is a pointer to the new document file that is presented
+     at execution time.  The new document file is aways named "text",
+     as it is this 'text' file that will be concatenated to the main
+     Text file.
+
+(2)  '*fp4' is a pointer to the main text file which is a composite
+     of concatenated documents.
+
+(3)  '*fp2' is a pointer to the Postings file.  The Postings file
+     consists of Postings records, each of which contains offsets 
+     into the main Text file.  There is a maximum number of offsets,
+     MAXTEXTPTRS, that can be stored in a record.  In the case of
+     overflow (more than the maximum number of text offsets need to 
+     be stored), an overflow record is created at the end of the file 
+     and the offset to that record is stored in the Postings record.
+
+     The format of the Postings record is as follows:
+
+     SIZE OF FIELD            FIELD DESCRIPTION
+
+     NUMPTRS                  Number of offsets stored in the record.
+     POSTINGSPTR              Offset to overflow record.
+     TEXTPTR                  Text offset which is the Key's offset 
+                              within Text file (Note that there may
+                              be up to MAXTEXTPTRS Text offsets
+                              stored in each record).
+
+     The size of each Postings record is locked-in by the padding of
+     zero's, e.g., if MAXTEXTPTRS = n and the number of text offsets
+     actually stored in the Postings record is x, there will be (n - x)
+     fields of size TEXTPTR padded with zeros.
+
+     Each Postings record is created by the function CreatePosting.
+     A Postings record is updated by the function UpdatePostingsFile. 
+
+(4)  '*fp3' is a pointer to the B-Tree.  The B-Tree is stored in pages
+     of size PAGESIZE bytes.  The first page of the B-Tree is the root
+     and it is stored as page number ROOT.  A page may be either a
+     Leaf page or a Nonleaf page.  
+ 
+     The format of a Nonleaf page is as follows:
+
+     The page header:
+
+       FIELD SIZE            FIELD DESCRIPTION
+
+       char                  Symbol defined as 'NonLeaf'.
+       PAGEPTR               Page number within B-Tree.
+       NUMBYTES              Number of bytes contained within the page.
+       NUMKEYS               Number of keys contained within the page.
+       PAGEPTR               Page number of rightmost child.
+   
+     Each key:
+
+       FIELD SIZE            FIELD DESCRIPTION 
+
+       PAGEPTR               Page number of child page containing keys
+                               that are lexicographically less than the
+                               stored key.
+       KEYLEN                The length (in bytes) of the stored key.
+       KEYLEN bytes          The key which may consist of up to
+                               MAXWORDSIZE bytes.
+
+     The format of a Leaf page is as follows:
+
+     The page header:
+
+       FIELD SIZE            FIELD DESCRIPTION
+
+       char                  Symbol defined as 'Leaf'.
+       PAGEPTR               Page number within B-Tree.
+       PAGEPTR               Page number of next logical leaf page.
+       NUMBYTES              Number of bytes within page.
+       NUMKEYS               Number of keys within page.
+
+     Each key:
+ 
+       FIELD SIZE            FIELD DESCRIPTION
+
+       KEYLEN                The length (in bytes) of the stored key.
+       KEYLEN bytes          The key which may consist of up to
+                               MAXWORDSIZE bytes.
+       POSTINGSPTR           The Postings offset which is the offset 
+                               of the Postings record.    
+
+     The size of each B-Tree page is locked-in by the padding of
+     character zero's, e.g., if the number of bytes stored in a 
+     page is NumBytes = n and the PAGESIZE = x, there will be
+     (x - n) character bytes padded with '0'.  
+
+(5)  'makefile' contains a list of all functions referenced by the
+     program.  After any program editing, type 'make' at the system
+     command line to re-compile the program.  This file currently
+     instructs the system to store the compiled program in a file
+     called 'prog'.  At execution time, type 'prog text' at the system
+     command line to run the program with the document file 'text' (as
+     mentioned above in (1)).  Or, to install the output in a file,
+     type 'prog text > <fn>'.     
+
+(6)  'def.h' is the definition file for the B-Tree program.  It
+     contains declarations for all functions utilized; program
+     macros and constants; a few necessary globals; typedef
+     declarations; and structure definitions.
+
+(7)  B-Tree.c is the main driver file for the program.  This file
+     opens input and output files, and drives the program.
+
+
+INTERNAL DATA STRUCTURES:
+
+The function FetchPage reads a page from disk using the formula
+PageNum * PAGESIZE - PAGESIZE, e.g., if the PageNum = 3 and
+PAGESIZE = 1024, the B-Tree file will be accessed starting at
+offset 2048, wherein the first page would be stored at offset 0,
+and the second page at offset 1024. 
+
+Function FetchPage installs the page in the following structures:
+
+The dynamically allocated page header structure:
+
+    struct PageHdr {
+       char              PgTypeID;         /* To differentiate between  
+                                                Leaf or NonLeaf pages       */
+       PAGEPTR           PgNum;            /* Page number within the 
+                                                B-Tree                      */
+       PAGEPTR           PgNumOfNxtLfPg;   /* Page number of next logical 
+                                                leaf page (LEAF PAGES ONLY) */
+       NUMBYES           NumBytes;         /* Number of bytes stored
+                                                within page                 */ 
+       NUMKEYS           NumKeys;          /* Number of keys stored
+                                                within page                 */  
+       struct KeyRecord *KeyListPtr;       /* Pointer to the list of keys
+                                                and their relative data     */
+       PAGEPTR           PtrToFinalRtgPg;  /* Page number of righmost child   
+                                                (NONLEAF PAGES ONLY         */
+    }
+
+The dynamically allocated key structure:
+
+    struct KeyRecord {
+       PAGEPTR           PgNum;            /*  Page number of child page con- 
+                                                 taining keys lexicograph-
+                                                 ically less than stored
+                                                 key (NONLEAF PAGES ONLY)  */
+       KEYLEN            KeyLen;           /*  The length (in bytes) of
+                                                 the stored key            */ 
+       KEYLEN bytes     *StoredKey;        /*  A pointer to the dynamically
+                                                 allocated storage for
+                                                 the key containing up to
+                                                 MAXWORDSIZE characters    */ 
+       POSTINGSPTR       Posting;          /*  Offset of Postings record
+                                                 (LEAF PAGES ONLY)         */
+       struct KeyRecord *Next;             /*  Pointer to the next logical
+                                                 KeyRecord structure       */  
+    }
+
+The function FlushPage writes a page to disk (again, using the 
+formula PageNum * PAGESIZE - PAGESIZE) and calls the function
+FreeNodes to deallocate storage space previously allocated
+for each key, each KeyRecord structure, and the PageHdr structure.
+
+
+INPUT:
+
+The program reads a document (stored in the file 'text', as mentioned
+above in (1) of FILES) which has been concatenated to the main Text
+file.  The document will contain (at this point in program design) one
+key (or word) per line.  Each key is a character key.  
+
+If one should wish to modify the key to, say, integer, one would start
+with the definition file 'def.h' to redefine struct KeyList and
+array StoredKey.  MAXWORDSIZE could be eliminated.  Functions FetchPage,
+FlushPage, CreateFirstLeaf would need to be amended and virtually all
+parameter passing and local function definitions referencing 'Key'
+(for current key) and StoredKey or Word (for a stored key) would need
+to be amended.
+
+
+OUTPUT:
+
+Currently, the program will print the contents of the B-Tree, page
+by page, beginning with the root.  The pages have been stored and 
+are printed in an ordered manner, i.e., 1 < 2 < ... < n. 
+
+The program can also print all text offsets for each key.  These
+instructions are currently commented in functions CreateFirstLeaf,
+InsertKeyInLeaf, and UpdatePostingsFile.
+
+
+FUNCTIONS:
+
+Following is a brief description of each program function:
+
+main (argc, argv)
+/**************************************************************************
+*                                                                         *
+*     This is the main driver function for the B-Tree program.            *
+*     See the B-Tree OVERVIEW, described above.                           *
+*     The definition file ("def.h") and the Programmer's Manual           *
+*     ("Pgmrs.Man") accompany the program.                                *
+*                                                                         *
+**************************************************************************/
+
+CompareKeys(Key, Word)
+/**************************************************************************
+*                                                                         *
+*    This function compares the possible new key with a key stored in     *
+*    the B-Tree.  The function returns the value '0' if the keys          *
+*    match, '1' if the new key is lexicographically less than the         *
+*    stored key, and '2' if the new key is lexicographically more         *
+*    than the stored key.                                                 *
+*                                                                         *
+**************************************************************************/
+
+CreateFirstLeaf(Key,TextOffset)
+/**************************************************************************
+*                                                                         *
+*    This function creates and writes to disk the first leaf page of      *
+*    the newly created B-Tree.  The first key to be inserted in the       *
+*    B-Tree is stored.                                                    *
+*                                                                         *
+**************************************************************************/
+
+CreatePosting(TextOffset,PostOffset)
+/**************************************************************************
+*                                                                         *
+*    This function creates and writes to disk a Posting record for the    *
+*    new key that is being inserted in the B-Tree.  The text offset       *
+*    of the key (within the Text file) is stored in the Posting           *
+*    (POSTINGSFILE).   The offset of the Posting (within the              *
+*    POSTINGSFILE) is stored in the variable PostOffset.  This,           *
+*    in turn, is stored with the key within the B-Tree file               *
+*    (B-TREE_FILE).                                                       *
+*                                                                         *
+**************************************************************************/
+
+CreateRoot()
+/**************************************************************************
+*                                                                         *
+*    This function creates and writes to disk the original root           *
+*    of the newly created B-Tree.  Initially, the root will               *
+*    contain zero keys and no rightmost child.                            *
+*                                                                         *
+**************************************************************************/
+ 
+struct PageHdr *FetchPage(PagePtr,Page)
+/**************************************************************************
+*                                                                         *
+*    This function reads a B-Tree page from disk.   The internal          *
+*    data structures that are utilized are described above under          *
+*    INTERNAL DATA STRUCTURES.                                            *
+*    See the Programmer's Manual ("Pgmrs.Man) and definition file         *
+*    ("def.h").                                                           *
+*                                                                         *
+**************************************************************************/
+ 
+FindInsertionPosition(KeyListTraverser,Key,Found,NumKeys,Count)
+/**************************************************************************
+*                                                                         *
+*    This recursive function searches a list of keys to find the          *
+*    position where the new key should be inserted.  The new key is       *  
+*    compared with the keys stored in the B-Tree until (1) a match is     *
+*    found, (2) the new key is lexicographically less than the stored     *
+*    key, (3) the last stored key is encountered and conditions (1)       *
+*    and (2) not been met.  The function returns, for the above cases:    * 
+*    Case (1) -- the position of the matched key, Case (2) -- the         *
+*    position immediately preceding the current key being compared,       *
+*    or Case (3) -- the position of the last key.                         *
+*                                                                         *
+**************************************************************************/  
+
+FindNumPagesInTree()
+/**************************************************************************
+*                                                                         *
+*     This function reads the second field of the Root page: this field   *
+*     initially contains (at the start of the program) the number of      *
+*     pages contained within the B-Tree.  After recording the number      *
+*     of pages in the variable PAGENUM, the field is reset to contain     *
+*     it's proper page number which is defined in ROOT.                   *
+*                                                                         *
+*                                                                         *
+**************************************************************************/
+
+FindPageNumOfChild(PagePtr,KeyListTraverser,Key,NumKeys)
+/**************************************************************************
+*                                                                         *
+*    This recursive function searches a nonleaf page to find the          *
+*    page number (child page) where the key should be stored.  The        *
+*    new key is compared with the keys within the B-Tree page.  If        *
+*    the new key is lexicograhically less than or equal to a stored       *
+*    key, the page number of the child page is returned.  If all          *
+*    keys within the page have been searched and the new key is           *
+*    lexicographically more than the last key, the page number of         *
+*    the rightmost child is returned.                                     *
+*                                                                         *
+**************************************************************************/     
+
+FlushPage(PagePtr)
+/**************************************************************************
+*                                                                         *
+*    This function writes a page to disk and then calls FreeNodes to      *
+*    to free the storage space that was dynamically secured to hold       *
+*    the contents of the disk page.                                       *
+*                                                                         *
+**************************************************************************/
+
+FreeNodes(PagePtr)
+/**************************************************************************
+*                                                                         *
+*    This function frees the space that was dynamimcally secured to       *
+*    hold a disk page.                                                    *
+*                                                                         *
+**************************************************************************/
+ 
+struct KeyList *InsertKey(PagePtr,Key,TextOffset)
+/**************************************************************************
+*                                                                         *
+*    This function inserts a key in a page and then determines if         *
+*    the page is full or not full.  If not full, the page is written      *
+*    to disk (FlushPage()) and the value NULL is returned.  If the        *
+*    page is full, the page is split (SplitPage()) and the middle         *
+*    key is returned here and, in turn, it is returned to the             *
+*    calling function (PropagatedInsertion()).                            *
+*                                                                         *
+**************************************************************************/
+
+struct PageHdr *InsertKeyInLeaf(PagePtr,Key,TextOffset)
+/**************************************************************************
+*                                                                         *
+*   This function inserts a key into a leaf page, after a Posting has     *
+*   been created.  In the case where a key is already stored in the       *
+*   B-Tree, the Postings record is updated.                               * 
+*                                                                         *
+**************************************************************************/
+ 
+struct PageHdr *InsertKeyInParent(PagePtr,MiddleKey)
+/**************************************************************************
+*                                                                         *
+*    This function inserts a key into a nonleaf page.  In the case        *
+*    where the nonleaf page contains zero keys (the root), the first      *
+*    key is inserted into the root and the only leaf page becomes         *
+*    the rightmost child.                                                 *  
+*                                                                         *
+**************************************************************************/
+
+PrintTree()
+***************************************************************************
+*                                                                         *
+*     This function prints the pages of the B-Tree, page by page,         *
+*     beginning with the Root.  The pages have been stored and are        *
+*     printed in an ordered manner, i.e., 1 < 2 < ... < n.                *
+*                                                                         *
+***************************************************************************
+
+struct KeyList *PropagatedInsertion(PageNo,Key,TextOffset)
+/**************************************************************************
+*                                                                         *
+*     This recursive function traverses through the B-Tree on a           *
+*     directed path (beginning at the root and traversing down to         *
+*     the leaf page that contains, or should contain the new key.         *
+*     As pages are split, the middle keys are propagated up to the        *
+*     parent pages for insertion.  In the case where the root has         *
+*     been split, the function returns the middle key which is to         *
+*     be inserted in the new root.  The function returns NULL             *  
+*     otherwise.                                                          *
+*                                                                         *
+*     Note that the variable NewKey points to a possible                  *
+*     propagated-up middle key and that key is sent to the function       * 
+*     InsertKey, which may, in turn, return a possible new                *
+*     middle key which must be propagated-up to the parent page           *
+*     for insertion.  In the abstract, NewKey travels down the            *
+*     tree and MiddleKey travels upward.                                  * 
+*                                                                         *  
+*     This function may be considered the core of the B-Tree              *
+*     program.                                                            *
+*                                                                         * 
+**************************************************************************/
+
+SearchTree(Key,TextOffset) 
+/**************************************************************************
+*                                                                         *
+*    This function initiates the creation of a new root                   * 
+*    (CreateRoot()) and new first first leaf page                         *
+*    (CreateFirstLeaf()) in the case where the B-Tree is                  *
+*    nonexistent.  If the B-Tree does exist, the key is                   *
+*    sent to PropagatedInsertion for insertion and any                    *
+*    possible page splits are handled there by recursively                *
+*    propagating down and then up the tree.  If PropagatedInsertion       *     
+*    returns the value NULL, this function terminates, otherwise          *
+*    the root must be split (SplitRoot()).                                *
+*                                                                         *
+**************************************************************************/
+ 
+struct KeyList *SplitPage(PagePtr)
+/*************************************************************************
+*                                                                        *
+*    This function splits leaf and nonleaf pages.  The page is split     *
+*    according to the number of keys it contains.  Half remain in the    *
+*    current page (half + one in the case where the total number of      *
+*    keys is an odd number), and half are transferred to a newly created *
+*    page.  The two pages are written to disk (FlushPage()).  The        *
+*    function returns the middle key which is to be inserted in the      *
+*    parent page.                                                        *
+*                                                                        *
+*************************************************************************/
+    
+SplitRoot (RootPageNum, MiddleKey)
+/************************************************************************
+*                                                                       * 
+*    Prior to execution of this function, the Root has already been     * 
+*    split by the function SplitPage().  The current Root contains      *
+*    the left half of the Root that was split.  This function creates   *
+*    a new root (still located as the first page on disk) and installs  *
+*    the key that has propagated up to the Root.  The current root is   *
+*    installed as the left child of the new Root.                       *
+*                                                                       *
+************************************************************************/
+   
+UpdatePostingsFile(PostingOffset, NewTextOffset)
+/************************************************************************
+*                                                                       *
+*    This function updates the Postings record in the case where it     *
+*    is determined that the key is a duplicate key (already inserted    *
+*    in the B-Tree).  In this case, the new text offset is installed    *
+*    in the already existing Postings record.                           *
+*                                                                       *
+************************************************************************/
+ 
+
+  

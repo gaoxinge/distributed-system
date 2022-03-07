@@ -1,0 +1,102 @@
+
+                         USER'S MANUAL
+
+
+OVERVIEW:
+
+The B-Tree program implements a data base of key words.  The key
+words are members of text documents, each of which has been
+concatenated to a main text file.  A key may contain up to
+MAXWORDSIZE characters. 
+
+
+
+FILES:
+
+The files that are accessed and utilized are as follows:
+
+(1)  '*fp1' is a pointer to the new document file that is presented
+     at execution time.  The new document file is aways named "text",
+     as it is this 'text' file that will be concatenated to the main
+     Text file.
+
+(2)  '*fp4' is a pointer to the main text file which is a composite
+     of concatenated documents.
+
+(3)  '*fp2' is a pointer to the Postings file.  The Postings file
+     consists of Postings records, each of which contains offsets 
+     into the main Text file. 
+
+(4)  '*fp3' is a pointer to the B-Tree.  
+
+(5)  'makefile' contains a list of all functions referenced by the
+     program.  After any program editing, type 'make' at the system
+     command line to re-compile the program.  This file currently
+     instructs the system to store the compiled program in a file
+     called 'prog'.  At execution time, type 'prog text' at the system
+     command line to run the program with the document file 'text' (as
+     mentioned above in (1)).  Or, to install the output in a file,
+     type 'prog text > <fn>'.     
+
+(6)  'def.h' is the definition file for the B-Tree program.  It
+     contains declarations for all functions utilized; program
+     macros and constants; a few necessary globals; typedef
+     declarations; and structure definitions.
+
+(7)  B-Tree.c is the main driver file for the program.  This file
+     opens input and output files, and drives the program.
+
+
+
+INPUT:
+
+The program reads a document (stored in the file 'text', as mentioned
+above in (1) of FILES) which will be concatenated to the main Text
+file.  The document will contain (at this point in program design) one
+key (or word) per line.  Each key is a character key.  
+
+
+OUTPUT:
+
+Currently, the program will print the contents of the B-Tree, page
+by page, beginning with the root.  The pages have been stored and 
+are printed in an ordered manner, i.e., 1 < 2 < ... < n. 
+
+The page layout will be as follows:
+
+  LEAF PAGE:
+    
+     Leaf page symbol
+     Page number    /* NOTE:  ROOT will contain number of pages in the B-Tree */
+     Number of bytes contained in the B-Tree
+     Number of keys contained in the page
+     Page number of rightmost child 
+  
+     Each Key:
+
+          Page number of page containing keys lexicographically less
+              than the value of this key 
+          Key
+          Number of bytes in key
+
+  NONLEAF PAGE:
+
+     Nonleaf page symbol 
+     Page Number
+     Page number of next logical leaf page
+     Number of bytes in page
+     Number of keys in page
+
+     Each Key:
+
+          Number of bytes in key
+          Key
+          Postings offset
+
+
+The program can also print all text offsets for each key.  These
+instructions are currently commented in functions CreateFirstLeaf,
+InsertKeyInLeaf, and UpdatePostingsFile.
+
+
+  

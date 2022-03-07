@@ -1,0 +1,42 @@
+--- modified by christos, 9/21/2016
+
+----------- COMPATIBILITY: ------------
+works fine on 
+    Red Hat Enterprise 7.2 (Maipo): gcc (GCC) 4.8.5 20150623 
+    Ubuntu 9.04 :   gcc (Ubuntu 4.3.3-5ubuntu4) 4.3.3
+    Fedora Core :   gcc (GCC) 4.1.2 20070502 (Red Hat 4.1.2-12)
+    Mepis 6.0:      gcc (GCC) 4.0.3 (Ubuntu 4.0.3-1ubuntu5)
+    Cygwin (winXP): gcc (GCC) 3.4.4 
+    Mac OSX 10.4 (Tiger) i686-apple-darwin8-gcc-4.0.1 (GCC) 4.0.1 
+    Mac OSX 10.9.5 (Mavericks)  x86_64-apple-darwin13.4.0
+
+
+
+------------ "How to" ------------------------
+
+* Do "make" to compile, load, and test the code.
+* SRC has the source files. The 'deleteKey.c' is disabled - ignore it
+* "make clean" destroys any old values in the BTREE, and any future
+   insertions occur on an empty tree.
+* "make spotless" deletes all object and binary files.
+* You can verify your outputs with the ones in Tests directory with ".sol" extension.
+
+Using the program:
+ Run ./main: the options should be quite clear.
+
+ Use "C" if you want to print a complete listing of the values in the BTREE.
+ Use "i" if you wish to insert a set of strings from a file into the BTREE.
+ Use "p" to print the values in a particular page of the BTREE.
+ Use "s" to search for a key.
+ Use "S" to search for a key and also print the documents containing the key.
+ Use "]" to print next key without given prefix.
+ Use "[" to print previous key without given prefix.
+ Use "T" to print the BTREE in an inorder format.
+ Use "d" to delete a key (disabled - ignore it)
+ Use "#" to print and reset stats
+ Use "x" to exit
+
+
+-------------------
+
+
