@@ -39,6 +39,7 @@
 - [Read, Write, Execute](http://hh360.user.srcf.net/blog/)
 - [Marc's Blog](https://brooker.co.za/blog/)
 - [Peter Bailis :: Highly Available, Seldom Consistent](http://www.bailis.org/blog/)
+- [数据库内核月报](http://mysql.taobao.org/monthly/)
 
 ### sosp
 
