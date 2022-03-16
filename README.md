@@ -77,13 +77,13 @@
 
 #### [CFT](./summary/concensus/CFT)
 
-- [viewstamped replication](./summary/CFT/viewstamped%20replication)
-- [paxos](./summary/CFT/paxos)
-- [raft](./summary/CFT/raft)
-- [zab](./summary/CFT/zab)
+- [viewstamped replication](./summary/concensus/CFT/viewstamped%20replication)
+- [paxos](./summary/concensus/CFT/paxos)
+- [raft](./summary/concensus/CFT/raft)
+- [zab](./summary/concensus/CFT/zab)
 - kafka
-- [bookeeper](./summary/CFT/bookeeper)
-- [pacifica](./summary/CFT/pacifica)
+- [bookeeper](./summary/concensus/CFT/bookeeper)
+- [pacifica](./summary/concensus/CFT/pacifica)
 
 #### BFT
 
