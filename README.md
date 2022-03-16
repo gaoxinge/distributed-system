@@ -16,7 +16,7 @@
 - [设计数据密集型应用](https://github.com/Vonng/ddia)
 - [分布式系统前沿技术](https://www.infoq.cn/theme/48)
 
-## algorithm
+## tutorial
 
 - [Distributed Algorithms](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 - [Principles of Distributed Computing ](https://disco.ethz.ch/courses/podc_allstars/)
@@ -75,6 +75,8 @@
 
 ### concensus
 
+#### CFT
+
 - [viewstamped replication](./summary/viewstamped%20replication)
 - [paxos](./summary/paxos)
 - [raft](./summary/raft)
@@ -83,6 +85,13 @@
 - [bookeeper](./summary/bookeeper)
 - [pacifica](./summary/pacifica)
 - [summary](./summary/concensus_summary)
+
+#### BFT
+
+#### [BFT (probability)](./summary/concensus/BFT%20(probability))
+
+- [bitcoin](./summary/concensus/BFT%20(probability)/bitcoin)
+- [hotstuff](./summary/concensus/BFT%20(probability)/hotstuff)
 
 ### consistency
 
