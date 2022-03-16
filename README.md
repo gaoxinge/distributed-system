@@ -75,16 +75,15 @@
 
 ### concensus
 
-#### CFT
+#### [CFT](./summary/concensus/CFT)
 
-- [viewstamped replication](./summary/viewstamped%20replication)
-- [paxos](./summary/paxos)
-- [raft](./summary/raft)
-- [zab](./summary/zab)
+- [viewstamped replication](./summary/CFT/viewstamped%20replication)
+- [paxos](./summary/CFT/paxos)
+- [raft](./summary/CFT/raft)
+- [zab](./summary/CFT/zab)
 - kafka
-- [bookeeper](./summary/bookeeper)
-- [pacifica](./summary/pacifica)
-- [summary](./summary/concensus_summary)
+- [bookeeper](./summary/CFT/bookeeper)
+- [pacifica](./summary/CFT/pacifica)
 
 #### BFT
 
