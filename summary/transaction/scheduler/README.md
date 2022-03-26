@@ -13,7 +13,9 @@
 - [Transaction management：可串行性（serializability）](https://zhuanlan.zhihu.com/p/57579023)
 - [Transaction management：两阶段锁（two-phase locking）](https://zhuanlan.zhihu.com/p/59535337)
 - [并发控制协议: 2PL / TS / OCC](https://zhuanlan.zhihu.com/p/294657612)
+- [Introduction to OCC: Part 1](https://zhuanlan.zhihu.com/p/467927969)
 - [数据库事务隔离发展历史](https://zhuanlan.zhihu.com/p/43621009)
+- [浅析数据库并发控制](https://zhuanlan.zhihu.com/p/45339550)
 
 ## tutorial
 
