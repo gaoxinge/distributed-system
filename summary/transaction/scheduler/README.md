@@ -5,6 +5,8 @@
 - [A Critique of ANSI SQL Isolation Levels](https://blog.acolyer.org/2016/02/24/a-critique-of-ansi-sql-isolation-levels/)
 - [Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions](https://pmg.csail.mit.edu/papers/adya-phd.pdf)
 - [Generalized Isolation Level Definitions](https://pmg.csail.mit.edu/papers/icde00.pdf)
+- [Multiversion Concurrency Control - Theory and Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.5778&rep=rep1&type=pdf)
+- [Algorithmic aspects of multiversion concurrency control](https://www.sciencedirect.com/science/article/pii/002200008690022X)
 
 ## article
 
