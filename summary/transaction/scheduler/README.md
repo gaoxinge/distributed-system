@@ -7,6 +7,7 @@
 - [Generalized Isolation Level Definitions](https://pmg.csail.mit.edu/papers/icde00.pdf)
 - [Multiversion Concurrency Control - Theory and Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.5778&rep=rep1&type=pdf)
 - [Algorithmic aspects of multiversion concurrency control](https://www.sciencedirect.com/science/article/pii/002200008690022X)
+- [A Survey of B-Tree Locking Techniques](https://15721.courses.cs.cmu.edu/spring2016/papers/a16-graefe.pdf)
 
 ## article
 
@@ -16,6 +17,9 @@
 - [Introduction to OCC: Part 1](https://zhuanlan.zhihu.com/p/467927969)
 - [数据库事务隔离发展历史](https://zhuanlan.zhihu.com/p/43621009)
 - [浅析数据库并发控制](https://zhuanlan.zhihu.com/p/45339550)
+- [B+树数据库加锁历史](https://zhuanlan.zhihu.com/p/462576086)
+- [POLARDB · B+树并发控制机制的前世今生](https://zhuanlan.zhihu.com/p/50112182)
+- [微软提出的无锁 B 族树 —— Bw-tree](https://zhuanlan.zhihu.com/p/422561790)
 
 ## tutorial
 
