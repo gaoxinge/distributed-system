@@ -8,6 +8,7 @@
 - [Multiversion Concurrency Control - Theory and Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.5778&rep=rep1&type=pdf)
 - [Algorithmic aspects of multiversion concurrency control](https://www.sciencedirect.com/science/article/pii/002200008690022X)
 - [Making Snapshot Isolation Serializable](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/2009/Papers/p492-fekete.pdf)
+- [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf)
 - [A Survey of B-Tree Locking Techniques](https://15721.courses.cs.cmu.edu/spring2016/papers/a16-graefe.pdf)
 
 ## article
