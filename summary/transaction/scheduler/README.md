@@ -9,6 +9,8 @@
 - [Algorithmic aspects of multiversion concurrency control](https://www.sciencedirect.com/science/article/pii/002200008690022X)
 - [Making Snapshot Isolation Serializable](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/2009/Papers/p492-fekete.pdf)
 - [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf)
+- [Serializable Snapshot Isolation for Replicated Databases in High-Update Scenarios](http://www.vldb.org/pvldb/vol4/p783-jung.pdf)
+- [A Critique of Snapshot Isolation](https://docplayer.net/186246776-A-critique-of-snapshot-isolation.html)
 - [A Survey of B-Tree Locking Techniques](https://15721.courses.cs.cmu.edu/spring2016/papers/a16-graefe.pdf)
 
 ## article
