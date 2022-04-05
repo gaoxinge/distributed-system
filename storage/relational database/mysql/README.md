@@ -23,3 +23,5 @@
 - [MySQL是怎样运行的——笔记二](https://cs704.cn/?p=352)
 - [MySQL是怎样运行的——笔记(more than 2 and less then 4)](https://cs704.cn/?p=376)
 - [MySQL是怎样运行的——笔记四](https://cs704.cn/?p=406)
+- [MySQL](https://www.meetkiki.com/categories/mysql/)
+- [我是如何开始阅读MySQL源码的?](https://zhuanlan.zhihu.com/p/26118810)
