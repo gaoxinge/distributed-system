@@ -107,6 +107,7 @@
 ### transaction
 
 - [scheduler](./summary/transaction/scheduler)
+- [crash recovery](./summary/transaction/crash%20recovery)
 
 ### impossibility
 
