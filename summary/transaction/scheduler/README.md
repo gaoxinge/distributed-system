@@ -28,3 +28,5 @@
 ## tutorial
 
 - [cs171](https://sites.cs.ucsb.edu/~agrawal/spring2011/grad/)
+- [Transaction Systems](https://db.in.tum.de/teaching/ss20/transactions/)
+- [transaction](https://www.ipd.kit.edu/~ipd/institut/tav/)
