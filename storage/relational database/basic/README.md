@@ -27,6 +27,7 @@
 ## tutorial
 
 - [Database System Concepts Sixth Edition](https://www.db-book.com/db6/)
+- [mit 6.830/6.814](http://db.lcs.mit.edu/6.830/index.php)
 - [cmu database group](https://db.cs.cmu.edu/courses/)
   - [15-415/615 — DATABASE APPLICATIONS](https://15415.courses.cs.cmu.edu/fall2016/)
 
