@@ -187,6 +187,7 @@
 +--------------+
 ```
 
+- [gluesql](./storage/gluesql.md)
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 
@@ -223,7 +224,6 @@
 - [mysql](./storage/relational%20database/mysql)
 - [myrocks](./storage/relational%20database/myrocks)
 - [postgres](./storage/relational%20database/postgres)
-- [gluesql](./storage/relational%20database/gluesql)
 
 ### relational database cluster
 
