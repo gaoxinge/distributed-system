@@ -117,13 +117,13 @@
 
 ### impossibility
 
-- [flp](./summary/flp)
-- [cap](./summary/cap)
+- [flp](./summary/impossibility/flp)
+- [cap](./summary/impossibility/cap)
 
 ### formal verification
 
-- [coq](./summary/coq)
-- [tla](./summary/tla)
+- [coq](./summary/formal%20verification/coq)
+- [tla](./summary/formal%20verification/tla)
 
 ## architecture
 
