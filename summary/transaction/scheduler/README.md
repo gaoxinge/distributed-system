@@ -12,6 +12,7 @@
 - [Serializable Snapshot Isolation for Replicated Databases in High-Update Scenarios](http://www.vldb.org/pvldb/vol4/p783-jung.pdf)
 - [Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf)
 - [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
+- [Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://www.vldb.org/pvldb/vol8/p209-yu.pdf)
 - [A Critique of Snapshot Isolation](https://docplayer.net/186246776-A-critique-of-snapshot-isolation.html)
 - [A Survey of B-Tree Locking Techniques](https://15721.courses.cs.cmu.edu/spring2016/papers/a16-graefe.pdf)
 
