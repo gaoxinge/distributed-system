@@ -188,6 +188,7 @@
 ```
 
 - [gluesql](./storage/gluesql.md)
+- [peloton](./storage/peloton.md)
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 
