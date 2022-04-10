@@ -193,6 +193,7 @@
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 - [oceanbase](./storage/oceanbase.md)
+- [vitess](./storage/vitess.md)
 
 ### cache database
 
