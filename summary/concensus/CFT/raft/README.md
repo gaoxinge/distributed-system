@@ -1,6 +1,7 @@
 ## paper
 
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn)
+- [Planning for Change in a Formal Verification of the Raft Consensus Protocol](http://verdi.uwplse.org/raft-proof.pdf)
 
 ## article
 
