@@ -187,6 +187,7 @@
 +--------------+
 ```
 
+- oracle
 - [gluesql](./storage/gluesql.md)
 - [peloton](./storage/peloton.md)
 - [chiselstore](./storage/chiselstore.md)
@@ -221,7 +222,6 @@
 
 - [basic](./storage/relational%20database/basic)
 - [sqlite](./storage/relational%20database/sqlite)
-- oracle
 - [mysql](./storage/relational%20database/mysql)
 - [myrocks](./storage/relational%20database/myrocks)
 - [postgres](./storage/relational%20database/postgres)
