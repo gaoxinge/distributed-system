@@ -192,6 +192,7 @@
 - [peloton](./storage/peloton.md)
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
+- [oceanbase](./storage/relational%20database%20cluster/oceanbase)
 
 ### cache database
 
@@ -231,7 +232,6 @@
 - [kunlun](./storage/relational%20database%20cluster/kunlun)
 - [baikaldb](./storage/relational%20database%20cluster/baikaldb)
 - [polardb](./storage/relational%20database%20cluster/polardb)
-- [oceanbase](./storage/relational%20database%20cluster/oceanbase)
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 - [yugabytedb](./storage/relational%20database%20cluster/yugabytedb)
 
