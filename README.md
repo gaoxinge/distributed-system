@@ -192,7 +192,7 @@
 - [peloton](./storage/peloton.md)
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
-- [oceanbase](./storage/relational%20database%20cluster/oceanbase)
+- [oceanbase](./storage/oceanbase.md)
 
 ### cache database
 
