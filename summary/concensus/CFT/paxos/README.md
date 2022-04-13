@@ -14,7 +14,6 @@
 - [Multicoordinated Paxos](https://www.researchgate.net/publication/37441356_Multicoordinated_Paxos)
 - [There Is More Consensus in Egalitarian Parliaments](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
 - [Paxos Made Practical](https://www.scs.stanford.edu/~dm/home/papers/paxos.pdf)
-- [Paxos Made Live - An Engineering Perspective](https://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf)
 - [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
 - [Paxos for System Builders](https://www.cnds.jhu.edu/Paxos-SB.html)
 - [Mencius: Building Efficient Replicated State Machines for WANs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/mao/mao.pdf)
