@@ -10,6 +10,7 @@
 
 ## paper
 
+- [Can’t we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus)
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list)
 - [Distributed consensus revised](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf)
