@@ -71,8 +71,6 @@
 - [dotted version vectors](./summary/clock/dotted%20version%20vectors)
 - [interval tree clock](./summary/clock/interval%20tree%20clock)
 
-### [gossip](./summary/gossip)
-
 ### [conflict](./summary/conflict)
 
 - [git](./summary/conflict/git)
@@ -80,6 +78,8 @@
 - [mpds](./summary/conflict/mpds)
 - [mrdt](./summary/conflict/mrdt)
 - [crdt](./summary/conflict/crdt)
+
+### [gossip](./summary/gossip)
 
 ### concensus
 
