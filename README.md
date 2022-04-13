@@ -71,6 +71,8 @@
 - [dotted version vectors](./summary/clock/dotted%20version%20vectors)
 - [interval tree clock](./summary/clock/interval%20tree%20clock)
 
+### [gossip](./summary/gossip)
+
 ### [conflict](./summary/conflict)
 
 - [git](./summary/conflict/git)
@@ -79,7 +81,7 @@
 - [mrdt](./summary/conflict/mrdt)
 - [crdt](./summary/conflict/crdt)
 
-### [gossip](./summary/gossip)
+### quorum
 
 ### concensus
 
@@ -106,6 +108,8 @@
 - [sequential consistency](./summary/consistency/sequential%20consistency)
 - [causal consistency](./summary/consistency/causal%20consistency)
 - [pram consistency](./summary/consistency/pram%20consistency)
+
+### [replication](./summary/replication)
 
 ### shared memory
 
