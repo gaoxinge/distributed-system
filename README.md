@@ -102,14 +102,14 @@
 - [bitcoin](./summary/concensus/BFT%20(probability)/bitcoin)
 - [hotstuff](./summary/concensus/BFT%20(probability)/hotstuff)
 
+### [replication](./summary/replication)
+
 ### [consistency](./summary/consistency)
 
 - [linearizability](./summary/consistency/linearizability)
 - [sequential consistency](./summary/consistency/sequential%20consistency)
 - [causal consistency](./summary/consistency/causal%20consistency)
 - [pram consistency](./summary/consistency/pram%20consistency)
-
-### [replication](./summary/replication)
 
 ### shared memory
 
