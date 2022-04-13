@@ -15,6 +15,7 @@
 - [Paxos for System Builders](https://www.cnds.jhu.edu/Paxos-SB.html)
 - [Mencius: Building Efficient Replicated State Machines for WANs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/mao/mao.pdf)
 - [Paxos Replicated State Machines as the Basis of a High-Performance Data Store](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.3269&rep=rep1&type=pdf#:~:text=We%20demonstrate%20that%20a%20Paxos,limited%20set%20of%20Byzantine%20faults.)
+- [The SMART Way to Migrate Replicated Stateful Services](https://jaylorch.net/static/publications/smart.pdf)
 
 ## article
 
