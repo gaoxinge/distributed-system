@@ -53,22 +53,25 @@
 
 ## summary
 
-### clock
+### impossibility
 
-- [clock](./summary/clock)
-- [lamport clock](./summary/lamport%20clock)
-- [vector clock](./summary/vector%20clock)
-- [matrix clock](./summary/matrix%20clock)
-- [dotted version vectors](./summary/dotted%20version%20vectors)
-- [interval tree clock](./summary/interval%20tree%20clock)
+- [flp](./summary/impossibility/flp)
+- [cap](./summary/impossibility/cap)
 
-### snapshot
+### formal verification
 
-- [snapshot](./summary/snapshot)
+- [coq](./summary/formal%20verification/coq)
+- [tla](./summary/formal%20verification/tla)
 
-### gossip
+### [clock](./summary/clock)
 
-- [gossip](./summary/gossip)
+- [lamport clock](./summary/clock/lamport%20clock)
+- [vector clock](./summary/clock/vector%20clock)
+- [matrix clock](./summary/clock/matrix%20clock)
+- [dotted version vectors](./summary/clock/dotted%20version%20vectors)
+- [interval tree clock](./summary/clock/interval%20tree%20clock)
+
+### [gossip](./summary/gossip)
 
 ### [conflict](./summary/conflict)
 
@@ -114,15 +117,7 @@
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
 
-### impossibility
-
-- [flp](./summary/impossibility/flp)
-- [cap](./summary/impossibility/cap)
-
-### formal verification
-
-- [coq](./summary/formal%20verification/coq)
-- [tla](./summary/formal%20verification/tla)
+### [snapshot](./summary/snapshot)
 
 ## architecture
 
