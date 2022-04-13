@@ -1,3 +1,7 @@
+## wiki 
+
+- [Paxos (computer science)](https://en.wikipedia.org/wiki/Paxos_(computer_science))
+
 ## paper
 
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
@@ -25,6 +29,7 @@
 - [Understanding Paxos – Part 1](https://distributedthoughts.com/2013/09/22/understanding-paxos-part-1/)
 - [Understanding Paxos – Part 2](https://distributedthoughts.com/2013/09/30/understanding-paxos-part-2/)
 - [Paxos Made Easy: Paxos算法的几何意义与证明](https://zhuanlan.zhihu.com/p/142999513)
+- [Implementing Replicated Logs with Paxos](https://ongardie.net/static/raft/userstudy/paxos.pdf)
 
 ## my article
 
