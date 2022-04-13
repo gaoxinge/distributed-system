@@ -5,6 +5,16 @@
 - [The ABCDs of Paxos](https://www.microsoft.com/en-us/research/publication/the-abcds-of-paxos/)
 - [How to Build a Highly Available System Using Consensus](https://www.microsoft.com/en-us/research/publication/how-to-build-a-highly-available-system-using-consensus/)
 - [Revisiting the Paxos Algorithm](https://www.microsoft.com/en-us/research/publication/revisiting-paxos-algorithm/)
+- [Fast Paxos](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-112.pdf)
+- [Generalized Consensus and Paxos](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-33.pdf)
+- [Multicoordinated Paxos](https://www.researchgate.net/publication/37441356_Multicoordinated_Paxos)
+- [There Is More Consensus in Egalitarian Parliaments](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
+- [Paxos Made Practical](https://www.scs.stanford.edu/~dm/home/papers/paxos.pdf)
+- [Paxos Made Live - An Engineering Perspective](https://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf)
+- [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
+- [Paxos for System Builders](https://www.cnds.jhu.edu/Paxos-SB.html)
+- [Mencius: Building Efficient Replicated State Machines for WANs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/mao/mao.pdf)
+- [Paxos Replicated State Machines as the Basis of a High-Performance Data Store](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.3269&rep=rep1&type=pdf#:~:text=We%20demonstrate%20that%20a%20Paxos,limited%20set%20of%20Byzantine%20faults.)
 
 ## article
 
