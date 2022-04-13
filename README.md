@@ -70,14 +70,13 @@
 
 - [gossip](./summary/gossip)
 
-### conflict
+### [conflict](./summary/conflict)
 
-- [conflict](./summary/conflict)
-- [git](./summary/git)
-- [ot](./summary/ot)
-- [mpds](./summary/mpds)
-- [mrdt](./summary/mrdt)
-- [crdt](./summary/crdt)
+- [git](./summary/conflict/git)
+- [ot](./summary/conflict/ot)
+- [mpds](./summary/conflict/mpds)
+- [mrdt](./summary/conflict/mrdt)
+- [crdt](./summary/conflict/crdt)
 
 ### concensus
 
