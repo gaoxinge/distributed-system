@@ -1,5 +1,9 @@
 ## architecture
 
+|                | register                   | multi paxos        | generalized paxos          |
+|----------------|----------------------------|--------------------|----------------------------|
+| implementation | classic paxos / fast paxos | multi paxos / raft | generalized paxos / epaxos |
+
 |                          | leader follower                      | writer logger                        |
 |--------------------------|--------------------------------------|--------------------------------------|
 | heartbeat                | registry / cluster                   | writer: registry / logger: writer    |

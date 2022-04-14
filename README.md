@@ -91,6 +91,7 @@
 - [paxos](./summary/concensus/CFT/paxos)
 - [raft](./summary/concensus/CFT/raft)
 - [zab](./summary/concensus/CFT/zab)
+- [chubby](./summary/concensus/CFT/chubby)
 - kafka
 - [bookeeper](./summary/concensus/CFT/bookeeper)
 - [pacifica](./summary/concensus/CFT/pacifica)
