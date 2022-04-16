@@ -4,13 +4,16 @@
 |----------------|----------------------------|--------------------|----------------------------|
 | implementation | classic paxos / fast paxos | multi paxos / raft | generalized paxos / epaxos |
 
-|                          | leader follower                      | writer logger                        |
-|--------------------------|--------------------------------------|--------------------------------------|
-| heartbeat                | registry / cluster                   | writer: registry / logger: writer    |
-| leader eletion           | registry                             | registry                             |
-| fencing                  | r + term + biggest logger + recovery | r + term + biggest logger + recovery |
-| log replicatin           | w + term + continuous / discrete     | w + term + continuous / discrete     |
-| membership configuration | raft                                 | raft                                 |
+- use registry to implement distributed logging
+
+|                          | leader + follower                                    | writer + reader + logger                        |
+|--------------------------|------------------------------------------------------|-------------------------------------------------|
+| heartbeat                | registry / cluster                                   | 1. writer: registry / cluster 2. logger: writer |
+| leader eletion           | registry + term                                      | registry + term                                 |
+| fencing                  | r quorum + term + longest logger + recovery          | r quorum + term + longest logger + recovery     |
+| log replication          | 1. w quorum + term + ack / commit 2. w quorum + term | w quorum + term                                 |
+| read                     | 1. leader read 2. r quorum read                      | r quorum read                                   |
+| membership configuration | registry + quorum intersection                       | registry + quorum intersection                  |
 
 ## paper
 
