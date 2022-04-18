@@ -70,6 +70,7 @@
 - [matrix clock](./summary/clock/matrix%20clock)
 - [dotted version vectors](./summary/clock/dotted%20version%20vectors)
 - [interval tree clock](./summary/clock/interval%20tree%20clock)
+- concensus clock
 
 ### [gossip](./summary/gossip)
 
