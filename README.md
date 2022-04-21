@@ -192,6 +192,7 @@
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 - [toydb](./storage/toydb.md)
+- [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [yugabytedb](./storage/yugabytedb.md)
 - [vitess](./storage/vitess.md)
@@ -233,7 +234,6 @@
 
 - [kunlun](./storage/relational%20database%20cluster/kunlun)
 - [baikaldb](./storage/relational%20database%20cluster/baikaldb)
-- [polardb](./storage/relational%20database%20cluster/polardb)
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 
 ### file system
