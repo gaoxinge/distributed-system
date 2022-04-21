@@ -186,6 +186,11 @@
 +--------------+
 ```
 
+- [distributed file system](./storage/distributed-file-system.md)
+- [gfs](./storage/gfs.md)
+- [hdfs](./storage/hdfs.md)
+- [curve](./storage/curve.md)
+- [ceph](./storage/ceph.md)
 - oracle
 - [gluesql](./storage/gluesql.md)
 - [peloton](./storage/peloton.md)
@@ -235,14 +240,6 @@
 - [kunlun](./storage/relational%20database%20cluster/kunlun)
 - [baikaldb](./storage/relational%20database%20cluster/baikaldb)
 - [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
-
-### file system
-
-- [basic](./storage/file%20system/basic)
-- [gfs](./storage/file%20system/gfs)
-- [hdfs](./storage/file%20system/hdfs)
-- [curve](./storage/file%20system/curve)
-- [ceph](./storage/file%20system/ceph)
 
 ### document database
 
