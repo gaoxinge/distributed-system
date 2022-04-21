@@ -172,19 +172,7 @@
 - 计算的一致性
 - 存储的一致性
 
-### 架构
-
-```
-+--------------+
-| sql          |
-+--------------+
-| data process |
-+--------------+
-| nosql        |
-+--------------+
-| log          |
-+--------------+
-```
+### 数据库
 
 - [distributed file system](./storage/distributed-file-system.md)
 - [gfs](./storage/gfs.md)
