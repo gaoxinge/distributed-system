@@ -124,6 +124,8 @@
 
 ### [storage](./summary/storage)
 
+### [database](./summary/database)
+
 ### [snapshot](./summary/snapshot)
 
 ## architecture
@@ -187,10 +189,10 @@
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 - [toydb](./storage/toydb.md)
+- [vitess](./storage/vitess.md)
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [yugabytedb](./storage/yugabytedb.md)
-- [vitess](./storage/vitess.md)
 
 ### cache database
 
@@ -218,7 +220,6 @@
 
 ### relational database
 
-- [basic](./storage/relational%20database/basic)
 - [sqlite](./storage/relational%20database/sqlite)
 - [mysql](./storage/relational%20database/mysql)
 - [myrocks](./storage/relational%20database/myrocks)
