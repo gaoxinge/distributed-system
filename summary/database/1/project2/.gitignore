@@ -1,0 +1,3 @@
+external/
+build/
+cmake-build-debug/
