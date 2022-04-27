@@ -122,6 +122,8 @@
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
 
+### [storage](./summary/storage)
+
 ### [snapshot](./summary/snapshot)
 
 ## architecture
