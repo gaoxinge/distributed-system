@@ -183,6 +183,13 @@
 - [hdfs](./storage/hdfs.md)
 - [curve](./storage/curve.md)
 - [ceph](./storage/ceph.md)
+- [boltdb](./storage/boltdb.md)
+- [leveldb](./storage/leveldb.md)
+- [rocksdb](./storage/rocksdb.md)
+- [agatedb](./storage/agatedb.md)
+- [terarkdb](./storage/terarkdb.md)
+- [pebble](./storage/pebble.md)
+- [bitcask](./storage/bitcask.md)
 - oracle
 - [gluesql](./storage/gluesql.md)
 - [peloton](./storage/peloton.md)
@@ -199,16 +206,6 @@
 - [basic](./storage/cache%20database/basic)
 - [redis](./storage/cache%20database/redis)
 - [memcached](./storage/cache%20database/memcached)
-
-### kv database
-
-- [boltdb](./storage/kv%20database/boltdb)
-- [leveldb](./storage/kv%20database/leveldb)
-- [rocksdb](./storage/kv%20database/rocksdb)
-- [agatedb](./storage/kv%20database/agatedb)
-- [terarkdb](./storage/kv%20database/terarkdb)
-- [pebble](./storage/kv%20database/pebble)
-- [bitcask](./storage/kv%20database/bitcask)
 
 ### kv database cluster
 
