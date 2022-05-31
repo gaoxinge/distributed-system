@@ -9,6 +9,7 @@
 
 - [Database Management Systems](https://book.douban.com/subject/2252163/)
 - [数据库系统概念](https://book.douban.com/subject/10548379/)
+- [数据库系统实现](https://book.douban.com/subject/4838430/)
 
 ### sql
 
@@ -27,6 +28,7 @@
 ## tutorial
 
 - [Database System Concepts Sixth Edition](https://www.db-book.com/db6/)
+- [DATABASE SYSTEMS](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
 - [mit 6.830/6.814](http://db.lcs.mit.edu/6.830/index.php)
 - [cmu database group](https://db.cs.cmu.edu/courses/)
   - [15-415/615 — DATABASE APPLICATIONS](https://15415.courses.cs.cmu.edu/fall2016/)
