@@ -25,6 +25,11 @@
 - [CSE5306: Distributed Systems](http://ranger.uta.edu/~jrao/CSE5306/fall2020/)
 - [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 - [CS5620: Distributed Systems and Algorithms](http://homepage.divms.uiowa.edu/~ghosh/16618.html)
+- [W4995-1: Distributed Systems](https://www.cs.columbia.edu/~du/ds/)
+- [G22.3033-001: Distributed Systems](http://news.cs.nyu.edu/~jinyang/fa10/)
+- [15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F10/)
+- [COS-418: Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall16/cos418/index.html)
+- [COS-418: Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall18/cos418/index.html)
 
 ## reference
 
