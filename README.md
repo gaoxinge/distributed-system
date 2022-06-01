@@ -14,6 +14,8 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 - [设计数据密集型应用](https://github.com/Vonng/ddia)
+- [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+- [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [分布式系统前沿技术](https://www.infoq.cn/theme/48)
 
 ## tutorial
