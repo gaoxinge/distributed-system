@@ -7,6 +7,7 @@
 
 ### database
 
+- [Readings in Database Systems](http://www.redbook.io/)
 - [Database Management Systems](https://book.douban.com/subject/2252163/)
 - [数据库系统概念](https://book.douban.com/subject/10548379/)
 - [数据库系统实现](https://book.douban.com/subject/4838430/)
