@@ -51,6 +51,7 @@
 - [阿里云服务产品目录](https://yunjisuanfuwu.com/aliyun)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
 - [数据中台之结构化大数据存储设计](https://yq.aliyun.com/articles/715254)
+- [百万节点数据库扩展之道](https://www.jianshu.com/p/4427aebf9164)
 
 ## conference
 
