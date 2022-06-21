@@ -211,6 +211,7 @@
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [yugabytedb](./storage/yugabytedb.md)
+- [matrixorigin](./storage/matrixorigin.md)
 
 ### cache database
 
@@ -224,7 +225,6 @@
 - [voldemort](./storage/kv%20database%20cluster/voldemort)
 - [riak](./storage/kv%20database%20cluster/riak)
 - [gobeansdb](./storage/kv%20database%20cluster/gobeansdb)
-- [matrixorigin](./storage/kv%20database%20cluster/matrixorigin)
 
 ### relational database
 
@@ -265,7 +265,6 @@
 - [presto](./storage/other/presto)
 - [snowflake](./storage/other/snowflake)
 - [datafuse](./storage/other/datafuse)
-- [matrixorigin](./storage/other/matrixorigin)
 - [clickhouse](./storage/other/clickhouse)
 - [hologres](./storage/other/hologres)
 - [greenplum](./storage/other/greenplum)
