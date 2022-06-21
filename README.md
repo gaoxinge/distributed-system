@@ -203,6 +203,7 @@
 - [peloton](./storage/peloton.md)
 - [noisepage](./storage/noisepage.md)
 - [duckdb](./storage/duckdb.md)
+- [velox](./storage/velox.md)
 - [chiselstore](./storage/chiselstore.md)
 - [rqlite](./storage/rqlite.md)
 - [toydb](./storage/toydb.md)
