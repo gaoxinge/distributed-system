@@ -212,9 +212,14 @@
 - [rqlite](./storage/rqlite.md)
 - [toydb](./storage/toydb.md)
 - [vitess](./storage/vitess.md)
+- tdsql
+- [kunlun](./storage/kunlun.md)
+- aurora
+- [cockroachdb](./storage/cockroachdb.md)
+- [yugabytedb](./storage/yugabytedb.md)
+- [baikaldb](./storage/baikaldb.md)
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
-- [yugabytedb](./storage/yugabytedb.md)
 - [matrixorigin](./storage/matrixorigin.md)
 
 ### cache database
@@ -229,19 +234,6 @@
 - [voldemort](./storage/kv%20database%20cluster/voldemort)
 - [riak](./storage/kv%20database%20cluster/riak)
 - [gobeansdb](./storage/kv%20database%20cluster/gobeansdb)
-
-### relational database
-
-- [sqlite](./storage/relational%20database/sqlite)
-- [mysql](./storage/relational%20database/mysql)
-- [myrocks](./storage/relational%20database/myrocks)
-- [postgres](./storage/relational%20database/postgres)
-
-### relational database cluster
-
-- [kunlun](./storage/relational%20database%20cluster/kunlun)
-- [baikaldb](./storage/relational%20database%20cluster/baikaldb)
-- [cockroachdb](./storage/relational%20database%20cluster/cockroachdb)
 
 ### document database
 
