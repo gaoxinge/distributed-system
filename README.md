@@ -198,7 +198,11 @@
 - [terarkdb](./storage/terarkdb.md)
 - [pebble](./storage/pebble.md)
 - [bitcask](./storage/bitcask.md)
+- [sqlite](./storage/sqlite.md)
 - oracle
+- [mysql](./storage/mysql.md)
+- [myrocks](./storage/myrocks.md)
+- [postgres](./storage/postgres.md)
 - [gluesql](./storage/gluesql.md)
 - [peloton](./storage/peloton.md)
 - [noisepage](./storage/noisepage.md)
