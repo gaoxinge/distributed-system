@@ -188,6 +188,9 @@
 
 ### 数据库
 
+- [basic](./storage/cache)
+- [redis](./storage/redis)
+- [memcached](./storage/memcached.md)
 - [distributed file system](./storage/distributed-file-system.md)
 - [gfs](./storage/gfs.md)
 - [hdfs](./storage/hdfs.md)
@@ -223,12 +226,6 @@
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [matrixorigin](./storage/matrixorigin.md)
-
-### cache database
-
-- [basic](./storage/cache%20database/basic)
-- [redis](./storage/cache%20database/redis)
-- [memcached](./storage/cache%20database/memcached)
 
 ### kv database cluster
 
