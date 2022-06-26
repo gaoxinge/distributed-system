@@ -238,26 +238,26 @@
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [matrixorigin](./storage/matrixorigin.md)
+- [map reduce](./storage/map-reduce.md)
+- [pig](./storage/pig.md)
+- [hive](./storage/hive.md)
+- [dremel](./storage/dremel.md)
+- [bigquery](./storage/bigquery.md)
+- [drill](./storage/drill.md)
+- [kylin](./storage/kylin.md)
+- [impala](./storage/impala.md)
+- [kudu](./storage/kudu.md)
+- [starrocks](./storage/starrocks.md)
+- [doris](./storage/doris.md)
 
 ### other
 
-- [mr](./storage/other/mr)
-- [pig](./storage/other/pig)
-- [hive](./storage/other/hive)
-- [dremel](./storage/other/dremel)
-- [bigquery](./storage/other/bigquery)
-- [drill](./storage/other/drill)
-- [kylin](./storage/other/kylin)
-- [impala](./storage/other/impala)
 - [presto](./storage/other/presto)
 - [snowflake](./storage/other/snowflake)
 - [datafuse](./storage/other/datafuse)
 - [clickhouse](./storage/other/clickhouse)
 - [hologres](./storage/other/hologres)
 - [greenplum](./storage/other/greenplum)
-- [starrocks](./storage/other/starrocks)
-- [doris](./storage/other/doris)
-- [kudu](./storage/other/kudu)
 
 ## message broker
 
