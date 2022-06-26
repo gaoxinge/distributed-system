@@ -246,13 +246,13 @@
 - [drill](./storage/drill.md)
 - [kylin](./storage/kylin.md)
 - [impala](./storage/impala.md)
+- [presto](./storage/presto.md)
 - [kudu](./storage/kudu.md)
 - [starrocks](./storage/starrocks.md)
 - [doris](./storage/doris.md)
 
 ### other
 
-- [presto](./storage/other/presto)
 - [snowflake](./storage/other/snowflake)
 - [datafuse](./storage/other/datafuse)
 - [clickhouse](./storage/other/clickhouse)
