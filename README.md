@@ -47,6 +47,8 @@
 - [Marc's Blog](https://brooker.co.za/blog/)
 - [Peter Bailis :: Highly Available, Seldom Consistent](http://www.bailis.org/blog/)
 - [db ranking](https://db-engines.com/en/ranking)
+- [阿里中间件](http://140.205.61.252/)
+- [美团技术](https://tech.meituan.com/)
 - [数据库内核月报](http://mysql.taobao.org/monthly/)
 - [阿里云服务产品目录](https://yunjisuanfuwu.com/aliyun)
 - [NoSQL Distilled](https://book.douban.com/subject/7952514/)
