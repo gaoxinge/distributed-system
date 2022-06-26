@@ -201,6 +201,13 @@
 - [voldemort](./storage/voldemort.md)
 - [riak](./storage/riak.md)
 - [gobeansdb](./storage/gobeansdb.md)
+- [document database](./storage/document-database.md)
+- [mongodb](./storage/mongodb.md)
+- [rethinkdb](./storage/rethinkdb.md)
+- [couchdb](./storage/couchdb.md)
+- couchbase/membase
+- [hbase](./storage/hbase.md)
+- [cassandra](./storage/cassandra.md)
 - [boltdb](./storage/boltdb.md)
 - [leveldb](./storage/leveldb.md)
 - [rocksdb](./storage/rocksdb.md)
@@ -231,19 +238,6 @@
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [matrixorigin](./storage/matrixorigin.md)
-
-### document database
-
-- [basic](./storage/document%20database/basic)
-- [mongodb](./storage/document%20database/mongodb)
-- [rethinkdb](./storage/document%20database/rethinkdb)
-- [couchdb](./storage/document%20database/couchdb)
-- couchbase/membase
-
-### column database
-
-- [hbase](./storage/column%20database/hbase)
-- [cassandra](./storage/column%20database/cassandra)
 
 ### other
 
