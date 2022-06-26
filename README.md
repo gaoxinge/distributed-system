@@ -188,14 +188,19 @@
 
 ### 数据库
 
-- [basic](./storage/cache)
-- [redis](./storage/redis)
-- [memcached](./storage/memcached.md)
 - [distributed file system](./storage/distributed-file-system.md)
 - [gfs](./storage/gfs.md)
 - [hdfs](./storage/hdfs.md)
 - [curve](./storage/curve.md)
 - [ceph](./storage/ceph.md)
+- [cache](./storage/cache)
+- [redis](./storage/redis)
+- [memcached](./storage/memcached.md)
+- [kv cluster](./storage/kv-cluster.md)
+- [dynamo](./storage/dynamo.md)
+- [voldemort](./storage/voldemort.md)
+- [riak](./storage/riak.md)
+- [gobeansdb](./storage/gobeansdb.md)
 - [boltdb](./storage/boltdb.md)
 - [leveldb](./storage/leveldb.md)
 - [rocksdb](./storage/rocksdb.md)
@@ -226,13 +231,6 @@
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
 - [matrixorigin](./storage/matrixorigin.md)
-
-### kv database cluster
-
-- [dynamo](./storage/kv%20database%20cluster/dynamo)
-- [voldemort](./storage/kv%20database%20cluster/voldemort)
-- [riak](./storage/kv%20database%20cluster/riak)
-- [gobeansdb](./storage/kv%20database%20cluster/gobeansdb)
 
 ### document database
 
