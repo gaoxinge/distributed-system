@@ -253,11 +253,8 @@
 - [snowflake](./storage/snowflake.md)
 - [clickhouse](./storage/clickhouse.md)
 - [datafuse](./storage/datafuse.md)
-
-### other
-
-- [hologres](./storage/other/hologres)
-- [greenplum](./storage/other/greenplum)
+- [hologres](./storage/hologres.md)
+- [greenplum](./storage/greenplum.md)
 
 ## message broker
 
