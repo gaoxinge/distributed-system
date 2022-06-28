@@ -250,12 +250,12 @@
 - [kudu](./storage/kudu.md)
 - [starrocks](./storage/starrocks.md)
 - [doris](./storage/doris.md)
+- [snowflake](./storage/snowflake.md)
+- [clickhouse](./storage/clickhouse.md)
+- [datafuse](./storage/datafuse.md)
 
 ### other
 
-- [snowflake](./storage/other/snowflake)
-- [datafuse](./storage/other/datafuse)
-- [clickhouse](./storage/other/clickhouse)
 - [hologres](./storage/other/hologres)
 - [greenplum](./storage/other/greenplum)
 
