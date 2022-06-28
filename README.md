@@ -123,9 +123,7 @@
 - [causal consistency](./summary/consistency/causal%20consistency)
 - [pram consistency](./summary/consistency/pram%20consistency)
 
-### shared memory
-
-- [shared memory](./summary/shared%20memory)
+### [shared memory](./summary/shared%20memory)
 
 ### transaction
 
