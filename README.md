@@ -134,6 +134,10 @@
 
 ### [database](./summary/database)
 
+### atomic commit
+
+- [2PC](./summary/atomic%20commit/2PC)
+
 ### [snapshot](./summary/snapshot)
 
 ## architecture
