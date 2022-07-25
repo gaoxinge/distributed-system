@@ -1,6 +1,7 @@
 ## paper
 
 - [Chapter 2 Distributed Consensus Protocols and Algorithms](https://www.cnsr.ictas.vt.edu/publication/DCPA.pdf)
+- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf)
 - [A Survey of Distributed Consensus Protocols for Blockchain Networks](https://arxiv.org/pdf/1904.04098.pdf)
 - [Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao)
 - [Handling Bitcoin Conflicts Through a Glimpse of Structure](https://www.archives-ouvertes.fr/hal-01634368/document)
