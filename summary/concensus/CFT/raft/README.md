@@ -6,8 +6,10 @@
 
 ## article
 
+- [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
 - [支持乱序执行的Raft协议](https://zhuanlan.zhihu.com/p/228335745)
 - [raft一致性算法](https://cizixs.com/2017/12/04/raft-consensus-algorithm/)
+- [Raft 一致性算法](https://lotabout.me/2019/Raft-Consensus-Algorithm/)
 
 ## my article
 
