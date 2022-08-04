@@ -245,6 +245,7 @@
 - [hive](./storage/hive.md)
 - [dremel](./storage/dremel.md)
 - [bigquery](./storage/bigquery.md)
+- [arrow-datafusion](./storage/arrow-datafusion.md)
 - [drill](./storage/drill.md)
 - [kylin](./storage/kylin.md)
 - [impala](./storage/impala.md)
