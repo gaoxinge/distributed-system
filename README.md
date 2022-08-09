@@ -246,6 +246,7 @@
 - [dremel](./storage/dremel.md)
 - [bigquery](./storage/bigquery.md)
 - [arrow-datafusion](./storage/arrow-datafusion.md)
+- [arrow-ballista](./storage/arrow-ballista.md)
 - [drill](./storage/drill.md)
 - [kylin](./storage/kylin.md)
 - [impala](./storage/impala.md)
