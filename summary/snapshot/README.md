@@ -15,3 +15,4 @@
 - [FAULT TOLERANCE AND RECOVERY OF FLINK JOBS](https://2015.flink-forward.org/index.html%3Fp=456.html)
 - [流式计算中的分布式快照](https://www.xargin.com/distributed-snapshot-in-stream-sys/)
 - [Flink 的传输语义以及弱一致性快照](https://zhuanlan.zhihu.com/p/464320717)
+- [流计算引擎数据一致性的本质](https://zhuanlan.zhihu.com/p/421762590)
