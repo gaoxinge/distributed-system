@@ -13,3 +13,4 @@
 - [读后感：Distributed Snapshots](https://zhuanlan.zhihu.com/p/42442713)
 - [分布式快照算法: Chandy-Lamport 算法](https://zhuanlan.zhihu.com/p/53482103)
 - [FAULT TOLERANCE AND RECOVERY OF FLINK JOBS](https://2015.flink-forward.org/index.html%3Fp=456.html)
+- [流式计算中的分布式快照](https://www.xargin.com/distributed-snapshot-in-stream-sys/)
