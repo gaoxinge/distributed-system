@@ -5,6 +5,7 @@
 ## paper
 
 - [Distributed Snapshots: Determining Global States of Distributed Systems ](https://lamport.azurewebsites.net/pubs/chandy.pdf)
+- [Lightweight Asynchronous Snapshots for Distributed Dataflows](https://arxiv.org/pdf/1506.08603.pdf)
 
 ## article
 
