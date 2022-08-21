@@ -1,3 +1,10 @@
+## architecture
+
+- spark streaming
+- structured streaming
+  - micro-batch processing
+  - continuous processing
+
 ## wiki
 
 - [Snapshot algorithm](https://en.wikipedia.org/wiki/Snapshot_algorithm)
