@@ -12,6 +12,7 @@
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [BigData Notes](https://github.com/heibaiying/BigData-Notes)
 - [Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/)
 - [设计数据密集型应用](https://github.com/Vonng/ddia)
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
