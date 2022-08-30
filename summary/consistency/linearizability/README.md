@@ -8,6 +8,8 @@
 - [Linearizability: A Correctness Condition for Concurrent Objects](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.5315&rep=rep1&type=pdf)
 - [Line-Up: A Complete and Automatic Linearizability Checker](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.184.2023&rep=rep1&type=pdf)
 - [Experience with Model Checking Linearizability](https://files.sri.inf.ethz.ch/website/papers/spin09.pdf)
+- [Testing for Linearizability](https://www.cs.ox.ac.uk/people/gavin.lowe/LinearizabiltyTesting/paper.pdf)
+- [Faster linearizability checking via P-compositionality](https://arxiv.org/pdf/1504.00204.pdf)
 - [Concurrent Specifications Beyond Linearizability](https://drops.dagstuhl.de/opus/volltexte/2018/10088/pdf/LIPIcs-OPODIS-2018-28.pdf)
 - [Specifying Concurrent Problems: Beyond Linearizability and up to Tasks](https://hal.archives-ouvertes.fr/hal-01207140/document)
 - [Sequential Consistency versus Linearizability](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4969&rep=rep1&type=pdf)
