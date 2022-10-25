@@ -11,6 +11,13 @@
 - [raft一致性算法](https://cizixs.com/2017/12/04/raft-consensus-algorithm/)
 - [Raft 一致性算法](https://lotabout.me/2019/Raft-Consensus-Algorithm/)
 
+## configuration
+
+- [bug in single-server membership changes](https://groups.google.com/g/raft-dev/c/t4xj6dJTP6E/m/d2D9LrWRza8J)
+- [raft: improve the availability related to member change](https://github.com/etcd-io/etcd/issues/7625)
+- [后分布式时代: 多数派读写的’少数派’实现](https://zhuanlan.zhihu.com/p/267559303)
+- [TiDB 在 Raft 成员变更上踩的坑](https://zhuanlan.zhihu.com/p/342319702)
+
 ## my article
 
 - [raft：选主](https://zhuanlan.zhihu.com/p/267010532)
