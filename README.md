@@ -133,6 +133,8 @@
 
 ### [storage](./summary/storage)
 
+### [query execution](./summary/query%20execution)
+
 ### [database](./summary/database)
 
 ### atomic commit
