@@ -22,4 +22,5 @@
 ## article
 
 - [数据库查询引擎的进化之路](https://zhuanlan.zhihu.com/p/41562506)
+- [查询编译综述](https://zhuanlan.zhihu.com/p/60965109)
 - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
