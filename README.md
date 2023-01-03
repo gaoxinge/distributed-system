@@ -133,6 +133,8 @@
 
 ### [storage](./summary/storage)
 
+### [query optimizer](./summary/query%20optimizer)
+
 ### [query execution](./summary/query%20execution)
 
 ### [database](./summary/database)
