@@ -10,10 +10,10 @@
 
 |      | 语言有llvm | 语言没有llvm，且不使用llvm | 语言没有llvm，且使用llvm |
 |------|------------|----------------------------|--------------------------|
-| push | 解释型     | 解释型                     | 解释型                   |
-| pull | 编译型90%  | 编译型80%                  | 编译型100%               |
-| partial pull: DAG pipline |
-| partial pull: DAG 线程池  |
+| pull | 解释型     | 解释型                     | 解释型                   |
+| push | 编译型90%  | 编译型80%                  | 编译型100%               |
+| partial push: DAG pipline |
+| partial push: DAG 线程池  |
 
 ### 向量化
 
