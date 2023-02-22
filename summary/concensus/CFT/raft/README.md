@@ -2,6 +2,8 @@
 
 - [The Raft Consensus Algorithm](https://raft.github.io/)
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn)
+- [Raft Refloated: Do We Have Consensus?](https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
+- [ARC: Analysis of Raft Consensus](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-857.pdf)
 - [Planning for Change in a Formal Verification of the Raft Consensus Protocol](http://verdi.uwplse.org/raft-proof.pdf)
 
 ## article
