@@ -17,6 +17,7 @@
 
 - [bug in single-server membership changes](https://groups.google.com/g/raft-dev/c/t4xj6dJTP6E/m/d2D9LrWRza8J)
 - [raft: improve the availability related to member change](https://github.com/etcd-io/etcd/issues/7625)
+- [Availability and region failure: Joint consensus in CockroachDB](https://www.cockroachlabs.com/blog/joint-consensus-raft/)
 - [后分布式时代: 多数派读写的’少数派’实现](https://zhuanlan.zhihu.com/p/267559303)
 - [TiDB 在 Raft 成员变更上踩的坑](https://zhuanlan.zhihu.com/p/342319702)
 - [Raft Engineering Practices and the Cluster Membership Change](https://www.alibabacloud.com/blog/raft-engineering-practices-and-the-cluster-membership-change_597742)
