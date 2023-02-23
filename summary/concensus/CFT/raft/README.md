@@ -20,6 +20,7 @@
 - [Availability and region failure: Joint consensus in CockroachDB](https://www.cockroachlabs.com/blog/joint-consensus-raft/)
 - [后分布式时代: 多数派读写的’少数派’实现](https://zhuanlan.zhihu.com/p/267559303)
 - [TiDB 在 Raft 成员变更上踩的坑](https://zhuanlan.zhihu.com/p/342319702)
+- [Raft成员变更的工程实践](https://zhuanlan.zhihu.com/p/359206808)
 - [Raft Engineering Practices and the Cluster Membership Change](https://www.alibabacloud.com/blog/raft-engineering-practices-and-the-cluster-membership-change_597742)
 
 ## my article
