@@ -117,6 +117,8 @@
 
 ### [replication](./summary/replication)
 
+### partition
+
 ### [consistency](./summary/consistency)
 
 - [linearizability](./summary/consistency/linearizability)
