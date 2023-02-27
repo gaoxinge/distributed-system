@@ -144,6 +144,7 @@
 ### atomic commit
 
 - [2PC](./summary/atomic%20commit/2PC)
+- [paxos commit](./summary/atomic%20commit/paxos%20commit)
 
 ### [snapshot](./summary/snapshot)
 
