@@ -1,7 +1,9 @@
 ## introduction
 
 - [pingcap](https://cn.pingcap.com/)
+- [community](https://github.com/pingcap/community)
 - [community](https://tidb.net/)
+- [talent-plan](https://tidb.net/talent-plan)
 - [learn](https://learn.pingcap.com/learner/home)
 
 ## source code
