@@ -247,6 +247,7 @@
 - [baikaldb](./storage/baikaldb.md)
 - [polardb](./storage/polardb.md)
 - [oceanbase](./storage/oceanbase.md)
+- [pingcap](./storage/pingcap.md)
 - [matrixorigin](./storage/matrixorigin.md)
 - [map reduce](./storage/map-reduce.md)
 - [pig](./storage/pig.md)
