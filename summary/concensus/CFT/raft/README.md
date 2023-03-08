@@ -25,6 +25,14 @@
 - [Raft成员变更的工程实践](https://zhuanlan.zhihu.com/p/359206808)
 - [Raft Engineering Practices and the Cluster Membership Change](https://www.alibabacloud.com/blog/raft-engineering-practices-and-the-cluster-membership-change_597742)
 
+## optimization
+
+- [TiKV 源码解析系列 - Lease Read](https://zhuanlan.zhihu.com/p/25367435)
+- [TiDB 新特性漫谈：从 Follower Read 说起](https://zhuanlan.zhihu.com/p/78164196)
+- [raft-rs 笔记：Read Index](https://zhuanlan.zhihu.com/p/347279466)
+- [How TiKV Uses “Lease Read” to Guarantee High Performances, Strong Consistency and Linearizability](https://www.pingcap.com/blog/lease-read/)
+- [Doubling System Read Throughput with Only 26 Lines of Code](https://tikv.org/blog/double-system-read-throughput/)
+
 ## my article
 
 - [raft：选主](https://zhuanlan.zhihu.com/p/267010532)
