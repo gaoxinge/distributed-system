@@ -21,6 +21,10 @@
 - batch
 - stream
 
+## paper
+
+- [Volcano-An Extensible and Parallel Query Evaluation System](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf)
+
 ## article
 
 - [数据库查询引擎的进化之路](https://zhuanlan.zhihu.com/p/41562506)
