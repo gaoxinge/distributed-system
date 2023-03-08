@@ -27,6 +27,7 @@
 
 ## optimization
 
+- [TiKV 源码解析系列 - Raft 的优化](https://zhuanlan.zhihu.com/p/25735592)
 - [TiKV 源码解析系列 - Lease Read](https://zhuanlan.zhihu.com/p/25367435)
 - [TiDB 新特性漫谈：从 Follower Read 说起](https://zhuanlan.zhihu.com/p/78164196)
 - [raft-rs 笔记：Read Index](https://zhuanlan.zhihu.com/p/347279466)
