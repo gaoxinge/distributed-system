@@ -132,6 +132,7 @@
 
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
+- [distributed transaction](./summary/transaction/distributed%20transaction)
 
 ### [storage](./summary/storage)
 
