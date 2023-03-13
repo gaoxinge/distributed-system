@@ -132,7 +132,10 @@
 
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
-- [distributed transaction](./summary/transaction/distributed%20transaction)
+
+### distributed transaction
+
+- [percolator](./summary/distributed%20transaction/percolator)
 
 ### [storage](./summary/storage)
 

@@ -4,4 +4,5 @@
 
 ## article
 
+- [大佬漫谈Google Percolator分布式事务](https://zhuanlan.zhihu.com/p/333967331)
 - [Percolator 事务笔记](https://zhuanlan.zhihu.com/p/47299592)
