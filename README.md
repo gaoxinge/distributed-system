@@ -135,7 +135,7 @@
 
 ### distributed transaction
 
-- [percolator](./summary/distributed%20transaction/percolator)
+- [percolator](./summary/distributed%20transaction/percolater)
 
 ### [storage](./summary/storage)
 
