@@ -136,6 +136,7 @@
 ### distributed transaction
 
 - [percolator](./summary/distributed%20transaction/percolater)
+- [omid](./summary/distributed%20transaction/omid)
 
 ### [storage](./summary/storage)
 
