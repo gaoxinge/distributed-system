@@ -133,7 +133,7 @@
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
 
-### distributed transaction
+### [distributed transaction](./summary/distributed%20transaction)
 
 - [percolator](./summary/distributed%20transaction/percolater)
 - [omid](./summary/distributed%20transaction/omid)
