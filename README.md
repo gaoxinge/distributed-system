@@ -133,11 +133,6 @@
 - [scheduler](./summary/transaction/scheduler)
 - [crash recovery](./summary/transaction/crash%20recovery)
 
-### [distributed transaction](./summary/distributed%20transaction)
-
-- [percolator](./summary/distributed%20transaction/percolater)
-- [omid](./summary/distributed%20transaction/omid)
-
 ### [storage](./summary/storage)
 
 ### [query optimizer](./summary/query%20optimizer)
@@ -150,6 +145,11 @@
 
 - [2PC](./summary/atomic%20commit/2PC)
 - [paxos commit](./summary/atomic%20commit/paxos%20commit)
+
+### [distributed transaction](./summary/distributed%20transaction)
+
+- [percolator](./summary/distributed%20transaction/percolater)
+- [omid](./summary/distributed%20transaction/omid)
 
 ### [snapshot](./summary/snapshot)
 
