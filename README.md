@@ -148,6 +148,7 @@
 
 ### [distributed transaction](./summary/distributed%20transaction)
 
+- [determinism](./summary/distributed%20transaction/determinism)
 - [percolator](./summary/distributed%20transaction/percolater)
 - [omid](./summary/distributed%20transaction/omid)
 
