@@ -151,6 +151,7 @@
 - [determinism](./summary/distributed%20transaction/determinism)
 - [percolator](./summary/distributed%20transaction/percolater)
 - [omid](./summary/distributed%20transaction/omid)
+- [maat](./summary/distributed%20transaction/maat)
 
 ### [snapshot](./summary/snapshot)
 
