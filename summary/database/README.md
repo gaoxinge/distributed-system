@@ -3,6 +3,10 @@
 - [Relational database](https://en.wikipedia.org/wiki/Relational_database)
 - [Relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)
 
+## paper
+
+- [OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)
+
 ## book
 
 ### database
