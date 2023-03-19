@@ -82,6 +82,8 @@
 - [dotted version vectors](./summary/clock/dotted%20version%20vectors)
 - [interval tree clock](./summary/clock/interval%20tree%20clock)
 - concensus clock
+- [hlc](./summary/clock/hlc)
+- hvc
 
 ### [gossip](./summary/gossip)
 
