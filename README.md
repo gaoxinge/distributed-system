@@ -155,6 +155,8 @@
 - [omid](./summary/distributed%20transaction/omid)
 - [maat](./summary/distributed%20transaction/maat)
 
+### [htap](./summary/htap)
+
 ### [snapshot](./summary/snapshot)
 
 ## architecture
