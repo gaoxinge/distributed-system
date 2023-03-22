@@ -230,6 +230,7 @@
 - [hbase](./storage/hbase.md)
 - [cassandra](./storage/cassandra.md)
 - [boltdb](./storage/boltdb.md)
+- [badger](./storage/badger.md)
 - [leveldb](./storage/leveldb.md)
 - [rocksdb](./storage/rocksdb.md)
 - [agatedb](./storage/agatedb.md)
