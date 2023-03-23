@@ -1,19 +1,23 @@
 ## architecture
 
-### DAG调度
-
-- 单线程
-- 线程池
-- 无限线程
-
 ### 组织
 
 |      | 语言有llvm | 语言没有llvm，且不使用llvm | 语言没有llvm，且使用llvm |
 |------|------------|----------------------------|--------------------------|
 | pull | 解释型     | 解释型                     | 解释型                   |
 | push | 编译型90%  | 编译型80%                  | 编译型100%               |
-| partial push: DAG pipline |
-| partial push: DAG 线程池  |
+
+### 实现 
+
+- pull
+  - volcano
+- push
+  - callback
+  - consumer-producer / DAG
+    - single thread
+    - multi thread
+      - thread pool
+      - no thread pool
 
 ### 向量化
 
