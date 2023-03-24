@@ -137,6 +137,8 @@
 
 ### [storage](./summary/storage)
 
+### [column storage](./summary/column%20storage)
+
 ### [query optimizer](./summary/query%20optimizer)
 
 ### [query execution](./summary/query%20execution)
