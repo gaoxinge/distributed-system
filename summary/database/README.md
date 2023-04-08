@@ -39,6 +39,7 @@
 - [mit 6.830/6.814](http://db.lcs.mit.edu/6.830/index.php)
 - [cmu database group](https://db.cs.cmu.edu/courses/)
   - [15-415/615 — DATABASE APPLICATIONS](https://15415.courses.cs.cmu.edu/fall2016/)
+  - [15-445/645 — INTRO TO DATABASE SYSTEMS](https://15445.courses.cs.cmu.edu/fall2022/)
   - [15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/spring2023/)
   - [15-799 — SPECIAL TOPICS IN DATABASE SYSTEMS](https://15799.courses.cs.cmu.edu/spring2022/)
   - [15-826 — MULTIMEDIA DATABASES AND DATA MINING](http://www.cs.cmu.edu/~christos/courses/826.F19/)
