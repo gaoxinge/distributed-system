@@ -47,3 +47,4 @@
 - [apache/incubator-brpc](https://github.com/apache/incubator-brpc)
 - [baidu/braft](https://github.com/baidu/braft)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft)
+- [lni/dragonboat](https://github.com/lni/dragonboat)
