@@ -27,6 +27,7 @@
 - [Strong consistency models](https://aphyr.com/posts/313-strong-consistency-models)
 - [Principles of Eventual Consistency](https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency/)
 - [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/abs/1512.00168)
+- [Consistency models in distributed systems: A survey on definitions, disciplines, challenges and applications](https://arxiv.org/pdf/1902.03305.pdf)
 
 ## article
 
