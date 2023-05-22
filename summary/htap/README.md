@@ -6,4 +6,6 @@
 ## article
 
 - [TiDB: A Raft-based HTAP Database](https://zhuanlan.zhihu.com/p/346327429)
+- [TiDB HTAP 深度解读](https://zhuanlan.zhihu.com/p/205663113)
+- [TiDB 的列式存储引擎是如何实现的？](https://zhuanlan.zhihu.com/p/164490310)
 - [HTAP列存引擎探秘](https://zhuanlan.zhihu.com/p/377583869)
