@@ -1,12 +1,5 @@
 ## architecture
 
-### 组织
-
-|      | 语言有llvm | 语言没有llvm，且不使用llvm | 语言没有llvm，且使用llvm |
-|------|------------|----------------------------|--------------------------|
-| pull | 解释型     | 解释型                     | 解释型                   |
-| push | 编译型90%  | 编译型80%                  | 编译型100%               |
-
 ### 实现 
 
 - pull
@@ -19,11 +12,29 @@
       - thread pool
       - no thread pool
 
+### 编译 vs 解释
+
+|      | 语言有llvm | 语言没有llvm，且不使用llvm | 语言没有llvm，且使用llvm |
+|------|------------|----------------------------|--------------------------|
+| pull | 解释型     | 解释型                     | 解释型                   |
+| push | 编译型90%  | 编译型80%                  | 编译型100%               |
+
 ### 向量化
 
 - table
 - batch
 - stream
+
+### 分布式
+
+- logical plan
+- standalone physical plan
+- distributed physical plan
+  - DAG: stage / pipeline
+  - operator: writer + reader / sender + receiver
+    - merge
+    - shuffle / redistribution / repartition
+    - broadcast
 
 ## paper
 
