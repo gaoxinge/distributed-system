@@ -34,6 +34,14 @@
 - [How TiKV Uses “Lease Read” to Guarantee High Performances, Strong Consistency and Linearizability](https://www.pingcap.com/blog/lease-read/)
 - [Doubling System Read Throughput with Only 26 Lines of Code](https://tikv.org/blog/double-system-read-throughput/)
 
+## multi raft
+
+- [Scaling Raft](https://www.cockroachlabs.com/blog/scaling-raft/)
+- [Multi-raft](https://tikv.org/deep-dive/scalability/multi-raft/)
+- [Elasticell-Multi-Raft实现](https://zhuanlan.zhihu.com/p/33047950)
+- [Multi-Raft](https://elasticell.readthedocs.io/en/latest/architecture/multi-raft/)
+- [What is a Multiraft?](https://sergeiturukin.com/2017/06/09/multiraft.html)
+
 ## my article
 
 - [raft：选主](https://zhuanlan.zhihu.com/p/267010532)
