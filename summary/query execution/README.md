@@ -27,14 +27,35 @@
 
 ### 分布式
 
+#### 阶段
+
 - logical plan
 - standalone physical plan
 - distributed physical plan
   - DAG: stage / pipeline
+    - source
+    - transform 
+    - sink
   - operator: writer + reader / sender + receiver
     - merge
     - shuffle / redistribution / repartition
     - broadcast
+
+#### 流程
+
+- 角色
+  - master
+  - worker
+  - client
+- 流程
+  - worker register master
+  - client send sql to master
+  - master parse sql to distributed physical plan
+  - master send distributed physical plan to worker
+  - master send begin flag to source
+  - worker execute and data flow between distributed physical plan
+  - sink send end flag to master
+  - master send data to client
 
 ## paper
 
